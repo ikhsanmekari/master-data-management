@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "code": "Daihatsu",
+    "name": "Daihatsu",
+    "tag": "Daihatsu",
+    "website": "https://daihatsu.co.id/"
+  },
+  {
+    "id": 2,
+    "code": "DFSK",
+    "name": "DFSK",
+    "tag": "DFSK",
+    "website": "https://www.dfskmotors.co.id/id"
+  },
+  {
+    "id": 3,
+    "code": "Hino",
+    "name": "Hino",
+    "tag": "Hino",
+    "website": "https://www.hino.co.id/"
+  },
+  {
+    "id": 4,
+    "code": "Honda",
+    "name": "Honda",
+    "tag": "Honda",
+    "website": "https://www.honda-indonesia.com/"
+  },
+  {
+    "id": 5,
+    "code": "Hyundai",
+    "name": "Hyundai",
+    "tag": "Hyundai",
+    "website": "https://www.hyundai.com/id/id"
+  },
+  {
+    "id": 6,
+    "code": "Isuzu",
+    "name": "Isuzu",
+    "tag": "Isuzu",
+    "website": "https://astraisuzu.co.id/ & https://isuzu-astra.com/"
+  },
+  {
+    "id": 7,
+    "code": "KIA",
+    "name": "KIA",
+    "tag": "KIA",
+    "website": "https://www.kia.com/id/main.html"
+  },
+  {
+    "id": 8,
+    "code": "Mazda",
+    "name": "Mazda",
+    "tag": "Mazda",
+    "website": "https://mazda.co.id/"
+  },
+  {
+    "id": 9,
+    "code": "MG",
+    "name": "MG",
+    "tag": "MG",
+    "website": "https://www.mgmotor.id/"
+  },
+  {
+    "id": 10,
+    "code": " Mitsubishi",
+    "name": "Mitsubishi",
+    "tag": "Mitsubishi",
+    "website": "https://www.ktb.co.id/"
+  },
+  {
+    "id": 11,
+    "code": "Nissan",
+    "name": "Nissan",
+    "tag": "Nissan",
+    "website": "https://nissan.co.id/"
+  },
+  {
+    "id": 12,
+    "code": "Suzuki",
+    "name": "Suzuki",
+    "tag": "Suzuki",
+    "website": "https://www.suzuki.co.id/automobile"
+  },
+  {
+    "id": 13,
+    "code": "Toyota",
+    "name": "Toyota",
+    "tag": "Toyota",
+    "website": "https://www.toyota.astra.co.id/home"
+  },
+  {
+    "id": 14,
+    "code": "Wuling",
+    "name": "Wuling",
+    "tag": "Wuling",
+    "website": "https://wuling.id/id"
+  }
+]
