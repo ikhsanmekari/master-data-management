@@ -3,12 +3,54 @@
     "id": 1,
     "code": "Daihatsu Ayla",
     "name": "Daihatsu Ayla",
-    "tag": "Daihatsu Ayla",
+    "tag": "Daihatsu Ayla"
   },
   {
     "id": 2,
     "code": "Daihatsu Gran Max MB",
     "name": "Daihatsu Gran Max MB",
-    "tag": "Daihatsu Gran Max MB",
+    "tag": "Daihatsu Gran Max MB"
+  },
+  {
+    "id": 3,
+    "code": "Daihatsu Gran Max PU",
+    "name": "Daihatsu Gran Max PU",
+    "tag": "Daihatsu Gran Max PU"
+  },
+  {
+    "id": 4,
+    "code": "Daihatsu Luxio",
+    "name": "Daihatsu Luxio",
+    "tag": "Daihatsu Luxio"
+  },
+  {
+    "id": 5,
+    "code": "Daihatsu Rocky",
+    "name": "Daihatsu Rocky",
+    "tag": "Daihatsu Rocky"
+  },
+  {
+    "id": 6,
+    "code": "Daihatsu Sigra",
+    "name": "Daihatsu Sigra",
+    "tag": "Daihatsu Sigra"
+  },
+  {
+    "id": 7,
+    "code": "Daihatsu Sigra",
+    "name": "Daihatsu Sigra",
+    "tag": "Daihatsu Sigra"
+  },
+  {
+    "id": 8,
+    "code": "Daihatsu Sigra",
+    "name": "Daihatsu Sigra",
+    "tag": "Daihatsu Sigra"
+  },
+  {
+    "id": 9,
+    "code": "Daihatsu Sigra",
+    "name": "Daihatsu Sigra",
+    "tag": "Daihatsu Sigra"
   }
 ]
