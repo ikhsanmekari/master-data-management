@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "code": "Hyundai Creta",
+    "name": "Hyundai Creta",
+    "tag": "Hyundai Creta"
+  },
+  {
+    "id": 2,
+    "code": "Hyundai Ioniq 5",
+    "name": "Hyundai Ioniq 5",
+    "tag": "Hyundai Ioniq 5"
+  },
+  {
+    "id": 3,
+    "code": "Hyundai Ioniq 6",
+    "name": "Hyundai Ioniq 6",
+    "tag": "Hyundai Ioniq 6"
+  },
+  {
+    "id": 4,
+    "code": "Hyundai Palisade",
+    "name": "Hyundai Palisade",
+    "tag": "Hyundai Palisade"
+  },
+  {
+    "id": 5,
+    "code": "Hyundai Santa Fe",
+    "name": "Hyundai Santa Fe",
+    "tag": "Hyundai Santa Fe"
+  },
+  {
+    "id": 6,
+    "code": "Hyundai Stargazer",
+    "name": "Hyundai Stargazer",
+    "tag": "Hyundai Stargazer"
+  },
+  {
+    "id": 7,
+    "code": "Hyundai Stargazer X",
+    "name": "Hyundai Stargazer X",
+    "tag": "Hyundai Stargazer X"
+  },
+  {
+    "id": 8,
+    "code": "Hyundai Staria",
+    "name": "Hyundai Staria",
+    "tag": "Hyundai Staria"
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "code": "Toyota Agya GR Sport",
+    "name": "Toyota Agya GR Sport",
+    "tag": "Toyota Agya GR Sport"
+  },
+  {
+    "id": 2,
+    "code": "Toyota Alphard HEV",
+    "name": "Toyota Alphard HEV",
+    "tag": "Toyota Alphard HEV"
+  },
+  {
+    "id": 3,
+    "code": "Toyota Avanza",
+    "name": "Toyota Avanza",
+    "tag": "Toyota Avanza"
+  },
+  {
+    "id": 4,
+    "code": "Toyota BZ4X Battery EV",
+    "name": "Toyota BZ4X Battery EV",
+    "tag": "Toyota BZ4X Battery EV"
+  },
+  {
+    "id": 5,
+    "code": "Toyota Calya",
+    "name": "Toyota Calya",
+    "tag": "Toyota Calya"
+  },
+  {
+    "id": 6,
+    "code": "Toyota Camry",
+    "name": "Toyota Camry",
+    "tag": "Toyota Camry"
+  },
+  {
+    "id": 7,
+    "code": "Toyota Camry Hybrid EV",
+    "name": "Toyota Camry Hybrid EV",
+    "tag": "Toyota Camry Hybrid EV"
+  },
+  {
+    "id": 8,
+    "code": "Toyota Corolla Altis",
+    "name": "Toyota Corolla Altis",
+    "tag": "Toyota Corolla Altis"
+  },
+  {
+    "id": 9,
+    "code": "Toyota Corolla Altis Hybrid EV",
+    "name": "Toyota Corolla Altis Hybrid EV",
+    "tag": "Toyota Corolla Altis Hybrid EV"
+  },
+  {
+    "id": 10,
+    "code": "Toyota Corolla Cross GR Sport Hybrid EV",
+    "name": "Toyota Corolla Cross GR Sport Hybrid EV",
+    "tag": "Toyota Corolla Cross GR Sport Hybrid EV"
+  },
+  {
+    "id": 11,
+    "code": "Toyota Corolla Cross Hybrid EV",
+    "name": "Toyota Corolla Cross Hybrid EV",
+    "tag": "Toyota Corolla Cross Hybrid EV"
+  },
+  {
+    "id": 12,
+    "code": "Toyota Dyna",
+    "name": "Toyota Dyna",
+    "tag": "Toyota Dyna"
+  },
+  {
+    "id": 13,
+    "code": "Toyota Fortuner GR Sport",
+    "name": "Toyota Fortuner GR Sport",
+    "tag": "Toyota Fortuner GR Sport"
+  },
+  {
+    "id": 14,
+    "code": "Toyota GR 86",
+    "name": "Toyota GR 86",
+    "tag": "Toyota GR 86"
+  },
+  {
+    "id": 15,
+    "code": "Toyota GR Sport",
+    "name": "Toyota GR Sport",
+    "tag": "Toyota GR Sport"
+  },
+  {
+    "id": 16,
+    "code": "Toyota GR Supra",
+    "name": "Toyota GR Supra",
+    "tag": "Toyota GR Supra"
+  },
+  {
+    "id": 17,
+    "code": "Toyota GR Yaris",
+    "name": "Toyota GR Yaris",
+    "tag": "Toyota GR Yaris"
+  },
+  {
+    "id": 18,
+    "code": "Toyota Hiace Commuter",
+    "name": "Toyota Hiace Commuter",
+    "tag": "Toyota Hiace Commuter"
+  },
+  {
+    "id": 19,
+    "code": "Toyota Hiace Premio",
+    "name": "Toyota Hiace Premio",
+    "tag": "Toyota Hiace Premio"
+  },
+  {
+    "id": 20,
+    "code": "Toyota Hilux Box",
+    "name": "Toyota Hilux Box",
+    "tag": "Toyota Hilux Box"
+  },
+  {
+    "id": 21,
+    "code": "Toyota Hilux D Cab",
+    "name": "Toyota Hilux D Cab",
+    "tag": "Toyota Hilux D Cab"
+  },
+  {
+    "id": 22,
+    "code": "Toyota Hilux S Cab",
+    "name": "Toyota Hilux S Cab",
+    "tag": "Toyota Hilux S Cab"
+  },
+  {
+    "id": 23,
+    "code": "Toyota Kijang Innova",
+    "name": "Toyota Kijang Innova",
+    "tag": "Toyota Kijang Innova"
+  },
+  {
+    "id": 24,
+    "code": "Toyota Kijang Innova Zenix",
+    "name": "Toyota Kijang Innova Zenix",
+    "tag": "Toyota Kijang Innova Zenix"
+  },
+  {
+    "id": 25,
+    "code": "Toyota Kijang Innova Zenix Hybrid EV",
+    "name": "Toyota Kijang Innova Zenix Hybrid EV",
+    "tag": "Toyota Kijang Innova Zenix Hybrid EV"
+  },
+  {
+    "id": 26,
+    "code": "Toyota Land Cruiser",
+    "name": "Toyota Land Cruiser",
+    "tag": "Toyota Land Cruiser"
+  },
+  {
+    "id": 27,
+    "code": "Toyota Raize GR Sport",
+    "name": "Toyota Raize GR Sport",
+    "tag": "Toyota Raize GR Sport"
+  },
+  {
+    "id": 28,
+    "code": "Toyota Rav4 GR Sport Phev",
+    "name": "Toyota Rav4 GR Sport Phev",
+    "tag": "Toyota Rav4 GR Sport Phev"
+  },
+  {
+    "id": 29,
+    "code": "Toyota Rush GR Sport",
+    "name": "Toyota Rush GR Sport",
+    "tag": "Toyota Rush GR Sport"
+  },
+  {
+    "id": 30,
+    "code": "Toyota Vellfire",
+    "name": "Toyota Vellfire",
+    "tag": "Toyota Vellfire"
+  },
+  {
+    "id": 31,
+    "code": "Toyota Veloz",
+    "name": "Toyota Veloz",
+    "tag": "Toyota Veloz"
+  },
+  {
+    "id": 32,
+    "code": "Toyota Vios",
+    "name": "Toyota Vios",
+    "tag": "Toyota Vios"
+  },
+  {
+    "id": 33,
+    "code": "Toyota Voxy",
+    "name": "Toyota Voxy",
+    "tag": "Toyota Voxy"
+  },
+  {
+    "id": 34,
+    "code": "Toyota Yaris Cross",
+    "name": "Toyota Yaris Cross",
+    "tag": "Toyota Yaris Cross"
+  },
+  {
+    "id": 35,
+    "code": "Toyota Yaris Cross HEV",
+    "name": "Toyota Yaris Cross HEV",
+    "tag": "Toyota Yaris Cross HEV"
+  },
+  {
+    "id": 36,
+    "code": "Toyota Yaris GR Sport",
+    "name": "Toyota Yaris GR Sport",
+    "tag": "Toyota Yaris GR Sport"
+  }
+]

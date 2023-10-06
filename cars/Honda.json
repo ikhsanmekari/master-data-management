@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "code": "Honda Accord",
+    "name": "Honda Accord",
+    "tag": "Honda Accord"
+  },
+  {
+    "id": 2,
+    "code": "Honda BR-V",
+    "name": "Honda BR-V",
+    "tag": "Honda BR-V"
+  },
+  {
+    "id": 3,
+    "code": "Honda Brio",
+    "name": "Honda Brio",
+    "tag": "Honda Brio"
+  },
+  {
+    "id": 4,
+    "code": "Honda City",
+    "name": "Honda City",
+    "tag": "Honda City"
+  },
+  {
+    "id": 5,
+    "code": "Honda City Hatchback RS",
+    "name": "Honda City Hatchback RS",
+    "tag": "Honda City Hatchback RS"
+  },
+  {
+    "id": 6,
+    "code": "Honda Civic RS",
+    "name": "Honda Civic RS",
+    "tag": "Honda Civic RS"
+  },
+  {
+    "id": 7,
+    "code": "Honda Civic Type R",
+    "name": "Honda Civic Type R",
+    "tag": "Honda Civic Type R"
+  },
+  {
+    "id": 8,
+    "code": "Honda CR-V",
+    "name": "Honda CR-V",
+    "tag": "Honda CR-V"
+  },
+  {
+    "id": 9,
+    "code": "Honda HR-V",
+    "name": "Honda HR-V",
+    "tag": "Honda HR-V"
+  },
+  {
+    "id": 10,
+    "code": "Honda Mobilio",
+    "name": "Honda Mobilio",
+    "tag": "Honda Mobilio"
+  },
+  {
+    "id": 11,
+    "code": "Honda WR-V",
+    "name": "Honda WR-V",
+    "tag": "Honda WR-V"
+  }
+]

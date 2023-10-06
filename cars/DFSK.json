@@ -10,5 +10,29 @@
     "code": "DFSK Gelora Electric",
     "name": "DFSK Gelora Electric",
     "tag": "DFSK Gelora Electric"
+  },
+  {
+    "id": 3,
+    "code": "DFSK Glory 560",
+    "name": "DFSK Glory 560",
+    "tag": "DFSK Glory 560"
+  },
+  {
+    "id": 4,
+    "code": "DFSK Glory i-Auto",
+    "name": "DFSK Glory i-Auto",
+    "tag": "DFSK Glory i-Auto"
+  },
+  {
+    "id": 5,
+    "code": "DFSK Seres E1",
+    "name": "DFSK Seres E1",
+    "tag": "DFSK Seres E1"
+  },
+  {
+    "id": 6,
+    "code": "DFSK Super Cab",
+    "name": "DFSK Super Cab",
+    "tag": "DFSK Super Cab"
   }
 ]

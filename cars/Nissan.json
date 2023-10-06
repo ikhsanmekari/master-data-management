@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "code": "Nissan Kicks e-Power",
+    "name": "Nissan Kicks e-Power",
+    "tag": "Nissan Kicks e-Power"
+  },
+  {
+    "id": 2,
+    "code": "Nissan Leaf",
+    "name": "Nissan Leaf",
+    "tag": "Nissan Leaf"
+  },
+  {
+    "id": 3,
+    "code": "Nissan Livina",
+    "name": "Nissan Livina",
+    "tag": "Nissan Livina"
+  },
+  {
+    "id": 4,
+    "code": "Nissan Magnite",
+    "name": "Nissan Magnite",
+    "tag": "Nissan Magnite"
+  },
+  {
+    "id": 5,
+    "code": "Nissan Serena",
+    "name": "Nissan Serena",
+    "tag": "Nissan Serena"
+  },
+  {
+    "id": 6,
+    "code": "Nissan Terra",
+    "name": "Nissan Terra",
+    "tag": "Nissan Terra"
+  },
+  {
+    "id": 7,
+    "code": "Nissan X-Trail",
+    "name": "Nissan X-Trail",
+    "tag": "Nissan X-Trail"
+  }
+]

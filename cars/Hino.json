@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "code": "Hino 300 Series - Cargo",
+    "name": "Hino 300 Series - Cargo",
+    "tag": "Hino 300 Series - Cargo"
+  },
+  {
+    "id": 2,
+    "code": "Hino 300 Series - Dump",
+    "name": "Hino 300 Series - Dump",
+    "tag": "Hino 300 Series - Dump"
+  },
+  {
+    "id": 3,
+    "code": "Hino 300 Series - Mixer",
+    "name": "Hino 300 Series - Mixer",
+    "tag": "Hino 300 Series - Mixer"
+  },
+  {
+    "id": 4,
+    "code": "Hino 500 Series - Cargo",
+    "name": "Hino 500 Series - Cargo",
+    "tag": "Hino 500 Series - Cargo"
+  },
+  {
+    "id": 5,
+    "code": "Hino 500 Series - Dump",
+    "name": "Hino 500 Series - Dump",
+    "tag": "Hino 500 Series - Dump"
+  },
+  {
+    "id": 6,
+    "code": "Hino 500 Series - Mixer",
+    "name": "Hino 500 Series - Mixer",
+    "tag": "Hino 500 Series - Mixer"
+  },
+  {
+    "id": 7,
+    "code": "Hino 500 Series - Tractor Head",
+    "name": "Hino 500 Series - Tractor Head",
+    "tag": "Hino 500 Series - Tractor Head"
+  },
+  {
+    "id": 8,
+    "code": "Hino 700 Series - SS 6X4",
+    "name": "Hino 700 Series - SS 6X4",
+    "tag": "Hino 700 Series - SS 6X4"
+  },
+  {
+    "id": 9,
+    "code": "Hino 700 Series - SV 6X4",
+    "name": "Hino 700 Series - SV 6X4",
+    "tag": "Hino 700 Series - SV 6X4"
+  },
+  {
+    "id": 10,
+    "code": "Hino 700 Series - ZS 6X4",
+    "name": "Hino 700 Series - ZS 6X4",
+    "tag": "Hino 700 Series - ZS 6X4"
+  },
+  {
+    "id": 11,
+    "code": "Hino 700 Series - ZY 8X4",
+    "name": "Hino 700 Series - ZY 8X4",
+    "tag": "Hino 700 Series - ZY 8X4"
+  },
+  {
+    "id": 12,
+    "code": "Hino Bus Series - Besar",
+    "name": "Hino Bus Series - Besar",
+    "tag": "Hino Bus Series - Besar"
+  },
+  {
+    "id": 13,
+    "code": "Hino Bus Series - Medium",
+    "name": "Hino Bus Series - Medium",
+    "tag": "Hino Bus Series - Medium"
+  },
+  {
+    "id": 14,
+    "code": "Hino Bus Series - Mikro",
+    "name": "Hino Bus Series - Mikro",
+    "tag": "Hino Bus Series - Mikro"
+  }
+]

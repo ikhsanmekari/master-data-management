@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "code": "Isuzu D-Max",
+    "name": "Isuzu D-Max",
+    "tag": "Isuzu D-Max"
+  },
+  {
+    "id": 2,
+    "code": "Isuzu Elf Microbus",
+    "name": "Isuzu Elf Microbus",
+    "tag": "Isuzu Elf Microbus"
+  },
+  {
+    "id": 3,
+    "code": "Isuzu Elf NLR",
+    "name": "Isuzu Elf NLR",
+    "tag": "Isuzu Elf NLR"
+  },
+  {
+    "id": 4,
+    "code": "Isuzu Elf NMR",
+    "name": "Isuzu Elf NMR",
+    "tag": "Isuzu Elf NMR"
+  },
+  {
+    "id": 5,
+    "code": "Isuzu Elf NPS",
+    "name": "Isuzu Elf NPS",
+    "tag": "Isuzu Elf NPS"
+  },
+  {
+    "id": 6,
+    "code": "Isuzu Elf NQR Bus",
+    "name": "Isuzu Elf NQR Bus",
+    "tag": "Isuzu Elf NQR Bus"
+  },
+  {
+    "id": 7,
+    "code": "Isuzu Giga 4X2",
+    "name": "Isuzu Giga 4X2",
+    "tag": "Isuzu Giga 4X2"
+  },
+  {
+    "id": 8,
+    "code": "Isuzu Giga 6X2",
+    "name": "Isuzu Giga 6X2",
+    "tag": "Isuzu Giga 6X2"
+  },
+  {
+    "id": 9,
+    "code": "Isuzu Giga 6X4",
+    "name": "Isuzu Giga 6X4",
+    "tag": "Isuzu Giga 6X4"
+  },
+  {
+    "id": 10,
+    "code": "Isuzu Giga FRR",
+    "name": "Isuzu Giga FRR",
+    "tag": "Isuzu Giga FRR"
+  },
+  {
+    "id": 11,
+    "code": "Isuzu Giga FTR",
+    "name": "Isuzu Giga FTR",
+    "tag": "Isuzu Giga FTR"
+  },
+  {
+    "id": 12,
+    "code": "Isuzu Giga Tractor Head",
+    "name": "Isuzu Giga Tractor Head",
+    "tag": "Isuzu Giga Tractor Head"
+  },
+  {
+    "id": 13,
+    "code": "Isuzu Traga Blind Van",
+    "name": "Isuzu Traga Blind Van",
+    "tag": "Isuzu Traga Blind Van"
+  },
+  {
+    "id": 14,
+    "code": "Isuzu Traga Pick Up",
+    "name": "Isuzu Traga Pick Up",
+    "tag": "Isuzu Traga Pick Up"
+  }
+]

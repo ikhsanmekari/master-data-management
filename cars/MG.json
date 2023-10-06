@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "code": "MG 4 EV",
+    "name": "MG 4 EV",
+    "tag": "MG 4 EV"
+  },
+  {
+    "id": 2,
+    "code": "MG 5 GT",
+    "name": "MG 5 GT",
+    "tag": "MG 5 GT"
+  },
+  {
+    "id": 3,
+    "code": "MG HS",
+    "name": "MG HS",
+    "tag": "MG HS"
+  },
+  {
+    "id": 4,
+    "code": "MG ZS",
+    "name": "MG ZS",
+    "tag": "MG ZS"
+  },
+  {
+    "id": 5,
+    "code": "MG ZS EV",
+    "name": "MG ZS EV",
+    "tag": "MG ZS EV"
+  }
+]

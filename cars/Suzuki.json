@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "code": "Suzuki APV Arena",
+    "name": "Suzuki APV Arena",
+    "tag": "Suzuki APV Arena"
+  },
+  {
+    "id": 2,
+    "code": "Suzuki Baleno",
+    "name": "Suzuki Baleno",
+    "tag": "Suzuki Baleno"
+  },
+  {
+    "id": 3,
+    "code": "Suzuki Ertiga",
+    "name": "Suzuki Ertiga",
+    "tag": "Suzuki Ertiga"
+  },
+  {
+    "id": 4,
+    "code": "Suzuki Ertiga Hybrid",
+    "name": "Suzuki Ertiga Hybrid",
+    "tag": "Suzuki Ertiga Hybrid"
+  },
+  {
+    "id": 5,
+    "code": "Suzuki Ignis",
+    "name": "Suzuki Ignis",
+    "tag": "Suzuki Ignis"
+  },
+  {
+    "id": 6,
+    "code": "Suzuki Jimny",
+    "name": "Suzuki Jimny",
+    "tag": "Suzuki Jimny"
+  },
+  {
+    "id": 7,
+    "code": "Suzuki Pick Up",
+    "name": "Suzuki Pick Up",
+    "tag": "Suzuki Pick Up"
+  },
+  {
+    "id": 8,
+    "code": "Suzuki S-Presso",
+    "name": "Suzuki S-Presso",
+    "tag": "Suzuki S-Presso"
+  },
+  {
+    "id": 9,
+    "code": "Suzuki Vitara",
+    "name": "Suzuki Vitara",
+    "tag": "Suzuki Vitara"
+  },
+  {
+    "id": 10,
+    "code": "Suzuki XL7 Hybrid",
+    "name": "Suzuki XL7 Hybrid",
+    "tag": "Suzuki XL7 Hybrid"
+  }
+]

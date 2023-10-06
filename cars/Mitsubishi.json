@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "code": "Mitsubishi L300",
+    "name": "Mitsubishi L300",
+    "tag": "Mitsubishi L300"
+  },
+  {
+    "id": 2,
+    "code": "Mitsubishi Outlander Phev",
+    "name": "Mitsubishi Outlander Phev",
+    "tag": "Mitsubishi Outlander Phev"
+  },
+  {
+    "id": 3,
+    "code": "Mitsubishi Pajero Sport",
+    "name": "Mitsubishi Pajero Sport",
+    "tag": "Mitsubishi Pajero Sport"
+  },
+  {
+    "id": 4,
+    "code": "Mitsubishi Triton",
+    "name": "Mitsubishi Triton",
+    "tag": "Mitsubishi Triton"
+  },
+  {
+    "id": 5,
+    "code": "Mitsubishi XForce",
+    "name": "Mitsubishi XForce",
+    "tag": "Mitsubishi XForce"
+  },
+  {
+    "id": 6,
+    "code": "Mitsubishi Xpander",
+    "name": "Mitsubishi Xpander",
+    "tag": "Mitsubishi Xpander"
+  },
+  {
+    "id": 7,
+    "code": "Mitsubishi Xpander Cross",
+    "name": "Mitsubishi Xpander Cross",
+    "tag": "Mitsubishi Xpander Cross"
+  }
+]

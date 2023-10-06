@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "code": "KIA Carens",
+    "name": "KIA Carens",
+    "tag": "KIA Carens"
+  },
+  {
+    "id": 2,
+    "code": "KIA Carnival",
+    "name": "KIA Carnival",
+    "tag": "KIA Carnival"
+  },
+  {
+    "id": 3,
+    "code": "KIA EV6",
+    "name": "KIA EV6",
+    "tag": "KIA EV6"
+  },
+  {
+    "id": 4,
+    "code": "KIA K2700",
+    "name": "KIA K2700",
+    "tag": "KIA K2700"
+  },
+  {
+    "id": 5,
+    "code": "KIA Seltos",
+    "name": "KIA Seltos",
+    "tag": "KIA Seltos"
+  },
+  {
+    "id": 6,
+    "code": "KIA Sonet",
+    "name": "KIA Sonet",
+    "tag": "KIA Sonet"
+  }
+]

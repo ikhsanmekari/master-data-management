@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "code": "Mazda 2 Hatchback",
+    "name": "Mazda 2 Hatchback",
+    "tag": "Mazda 2 Hatchback"
+  },
+  {
+    "id": 2,
+    "code": "Mazda 2 Sedan",
+    "name": "Mazda 2 Sedan",
+    "tag": "Mazda 2 Sedan"
+  },
+  {
+    "id": 3,
+    "code": "Mazda 3 Hatchback",
+    "name": "Mazda 3 Hatchback",
+    "tag": "Mazda 3 Hatchback"
+  },
+  {
+    "id": 4,
+    "code": "Mazda 3 Sedan",
+    "name": "Mazda 3 Sedan",
+    "tag": "Mazda 3 Sedan"
+  },
+  {
+    "id": 5,
+    "code": "Mazda 6 Elite Estate",
+    "name": "Mazda 6 Elite Estate",
+    "tag": "Mazda 6 Elite Estate"
+  },
+  {
+    "id": 6,
+    "code": "Mazda 6 Elite Sedan",
+    "name": "Mazda 6 Elite Sedan",
+    "tag": "Mazda 6 Elite Sedan"
+  },
+  {
+    "id": 7,
+    "code": "Mazda CX-3",
+    "name": "Mazda CX-3",
+    "tag": "Mazda CX-3"
+  },
+  {
+    "id": 8,
+    "code": "Mazda CX-30",
+    "name": "Mazda CX-30",
+    "tag": "Mazda CX-30"
+  },
+  {
+    "id": 9,
+    "code": "Mazda CX-5",
+    "name": "Mazda CX-5",
+    "tag": "Mazda CX-5"
+  },
+  {
+    "id": 10,
+    "code": "Mazda CX-60",
+    "name": "Mazda CX-60",
+    "tag": "Mazda CX-60"
+  },
+  {
+    "id": 11,
+    "code": "Mazda CX-8",
+    "name": "Mazda CX-8",
+    "tag": "Mazda CX-8"
+  },
+  {
+    "id": 12,
+    "code": "Mazda CX-9",
+    "name": "Mazda CX-9",
+    "tag": "Mazda CX-9"
+  },
+  {
+    "id": 13,
+    "code": "Mazda MX-5 RF",
+    "name": "Mazda MX-5 RF",
+    "tag": "Mazda MX-5 RF"
+  }
+]
