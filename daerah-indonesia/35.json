@@ -1,0 +1,27 @@
+[
+    {
+        "id": 489,
+        "nama_lengkap": "Kabupaten Asmat",
+        "nama_singkatan": "Kab Asmat",
+        "nama_singkatan_c": "Kab. Asmat"
+    },
+    {
+        "id": 490,
+        "nama_lengkap": "Kabupaten Boven Digoel",
+        "nama_singkatan": "Kab Boven Digoel",
+        "nama_singkatan_c": "Kab. Boven Digoel"
+    },
+    {
+        "id": 491,
+        "nama_lengkap": "Kabupaten Mappi",
+        "nama_singkatan": "Kab Mappi",
+        "nama_singkatan_c": "Kab. Mappi"
+    },
+    {
+        "id": 492,
+        "nama_lengkap": "Kabupaten Merauke",
+        "nama_singkatan": "Kab Merauke",
+        "nama_singkatan_c": "Kab. Merauke"
+    }
+
+]

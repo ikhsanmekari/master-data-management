@@ -1,0 +1,56 @@
+[
+  {
+        "id": 473,
+        "nama_lengkap": "Kabupaten Biak Numfor",
+        "nama_singkatan": "Kab Biak Numfor",
+        "nama_singkatan_c": "Kab. Biak Numfor"
+    },
+    {
+        "id": 474,
+        "nama_lengkap": "Kabupaten Jayapura",
+        "nama_singkatan": "Kab Jayapura",
+        "nama_singkatan_c": "Kab. Jayapura"
+    },
+    {
+        "id": 475,
+        "nama_lengkap": "Kabupaten Keerom",
+        "nama_singkatan": "Kab Keerom",
+        "nama_singkatan_c": "Kab. Keerom"
+    },
+    {
+        "id": 476,
+        "nama_lengkap": "Kabupaten Kepulauan Yapen",
+        "nama_singkatan": "Kab Kepulauan Yapen",
+        "nama_singkatan_c": "Kab. Kepulauan Yapen"
+    },
+    {
+        "id": 477,
+        "nama_lengkap": "Kabupaten Mamberamo Raya",
+        "nama_singkatan": "Kab Mamberamo Raya",
+        "nama_singkatan_c": "Kab. Mamberamo Raya"
+    },
+    {
+        "id": 478,
+        "nama_lengkap": "Kabupaten Sarmi",
+        "nama_singkatan": "Kab Sarmi",
+        "nama_singkatan_c": "Kab. Sarmi"
+    },
+    {
+        "id": 479,
+        "nama_lengkap": "Kabupaten Supiori",
+        "nama_singkatan": "Kab Supiori",
+        "nama_singkatan_c": "Kab. Supiori"
+    },
+    {
+        "id": 480,
+        "nama_lengkap": "Kabupaten Waropen",
+        "nama_singkatan": "Kab Waropen",
+        "nama_singkatan_c": "Kab. Waropen"
+    },
+    {
+        "id": 481,
+        "nama_lengkap": "Kota Jayapura",
+        "nama_singkatan": "Kota Jayapura",
+        "nama_singkatan_c": "Kota Jayapura"
+    }
+]

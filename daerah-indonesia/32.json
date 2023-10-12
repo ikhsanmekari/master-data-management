@@ -1,0 +1,62 @@
+[
+  {
+        "id": 463,
+        "nama_lengkap": "Kabupaten Halmahera Barat",
+        "nama_singkatan": "Kab Halmahera Barat",
+        "nama_singkatan_c": "Kab. Halmahera Barat"
+    },
+    {
+        "id": 464,
+        "nama_lengkap": "Kabupaten Halmahera Tengah",
+        "nama_singkatan": "Kab Halmahera Tengah",
+        "nama_singkatan_c": "Kab. Halmahera Tengah"
+    },
+    {
+        "id": 465,
+        "nama_lengkap": "Kabupaten Halmahera Utara",
+        "nama_singkatan": "Kab Halmahera Utara",
+        "nama_singkatan_c": "Kab. Halmahera Utara"
+    },
+    {
+        "id": 466,
+        "nama_lengkap": "Kabupaten Halmahera Selatan",
+        "nama_singkatan": "Kab Halmahera Selatan",
+        "nama_singkatan_c": "Kab. Halmahera Selatan"
+    },
+    {
+        "id": 467,
+        "nama_lengkap": "Kabupaten Kepulauan Sula",
+        "nama_singkatan": "Kab Kepulauan Sula",
+        "nama_singkatan_c": "Kab. Kepulauan Sula"
+    },
+    {
+        "id": 468,
+        "nama_lengkap": "Kabupaten Halmahera Timur",
+        "nama_singkatan": "Kab Halmahera Timur",
+        "nama_singkatan_c": "Kab. Halmahera Timur"
+    },
+    {
+        "id": 469,
+        "nama_lengkap": "Kabupaten Pulau Morotai",
+        "nama_singkatan": "Kab Pulau Morotai",
+        "nama_singkatan_c": "Kab. Pulau Morotai"
+    },
+    {
+        "id": 470,
+        "nama_lengkap": "Kabupaten Pulau Taliabu",
+        "nama_singkatan": "Kab Pulau Taliabu",
+        "nama_singkatan_c": "Kab. Pulau Taliabu"
+    },
+    {
+        "id": 471,
+        "nama_lengkap": "Kota Ternate",
+        "nama_singkatan": "Kota Ternate",
+        "nama_singkatan_c": "Kota Ternate"
+    },
+    {
+        "id": 472,
+        "nama_lengkap": "Kota Tidore Kepulauan",
+        "nama_singkatan": "Kota Tidore Kepulauan",
+        "nama_singkatan_c": "Kota Tidore Kepulauan"
+    }
+]

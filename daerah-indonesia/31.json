@@ -1,0 +1,68 @@
+[
+  {
+        "id": 452,
+        "nama_lengkap": "Kabupaten Buru",
+        "nama_singkatan": "Kab Buru",
+        "nama_singkatan_c": "Kab. Buru"
+    },
+    {
+        "id": 453,
+        "nama_lengkap": "Kabupaten Buru Selatan",
+        "nama_singkatan": "Kab Buru Selatan",
+        "nama_singkatan_c": "Kab. Buru Selatan"
+    },
+    {
+        "id": 454,
+        "nama_lengkap": "Kabupaten Kepulauan Aru",
+        "nama_singkatan": "Kab Kepulauan Aru",
+        "nama_singkatan_c": "Kab. Kepulauan Aru"
+    },
+    {
+        "id": 455,
+        "nama_lengkap": "Kabupaten Maluku Barat Daya",
+        "nama_singkatan": "Kab Maluku Barat Daya",
+        "nama_singkatan_c": "Kab. Maluku Barat Daya"
+    },
+    {
+        "id": 456,
+        "nama_lengkap": "Kabupaten Maluku Tengah",
+        "nama_singkatan": "Kab Maluku Tengah",
+        "nama_singkatan_c": "Kab. Maluku Tengah"
+    },
+    {
+        "id": 457,
+        "nama_lengkap": "Kabupaten Maluku Tenggara",
+        "nama_singkatan": "Kab Maluku Tenggara",
+        "nama_singkatan_c": "Kab. Maluku Tenggara"
+    },
+    {
+        "id": 458,
+        "nama_lengkap": "Kabupaten Maluku Tenggara Barat",
+        "nama_singkatan": "Kab Maluku Tenggara Barat",
+        "nama_singkatan_c": "Kab. Maluku Tenggara Barat"
+    },
+    {
+        "id": 459,
+        "nama_lengkap": "Kabupaten Seram Bagian Barat",
+        "nama_singkatan": "Kab Seram Bagian Barat",
+        "nama_singkatan_c": "Kab. Seram Bagian Barat"
+    },
+    {
+        "id": 460,
+        "nama_lengkap": "Kabupaten Seram Bagian Timur",
+        "nama_singkatan": "Kab Seram Bagian Timur",
+        "nama_singkatan_c": "Kab. Seram Bagian Timur"
+    },
+    {
+        "id": 461,
+        "nama_lengkap": "Kota Ambon",
+        "nama_singkatan": "Kota Ambon",
+        "nama_singkatan_c": "Kota Ambon"
+    },
+    {
+        "id": 462,
+        "nama_lengkap": "Kota Tual",
+        "nama_singkatan": "Kota Tual",
+        "nama_singkatan_c": "Kota Tual"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id": 509,
+        "nama_lengkap": "Kabupaten Maybrat",
+        "nama_singkatan": "Kab Maybrat",
+        "nama_singkatan_c": "Kab. Maybrat"
+    },
+    {
+        "id": 510,
+        "nama_lengkap": "Kabupaten Raja Ampat",
+        "nama_singkatan": "Kab Raja Ampat",
+        "nama_singkatan_c": "Kab. Raja Ampat"
+    },
+    {
+        "id": 511,
+        "nama_lengkap": "Kabupaten Sorong",
+        "nama_singkatan": "Kab Sorong",
+        "nama_singkatan_c": "Kab. Sorong"
+    },
+    {
+        "id": 512,
+        "nama_lengkap": "Kabupaten Sorong Selatan",
+        "nama_singkatan": "Kab Sorong Selatan",
+        "nama_singkatan_c": "Kab. Sorong Selatan"
+    },
+    {
+        "id": 513,
+        "nama_lengkap": "Kabupaten Tambrauw",
+        "nama_singkatan": "Kab Tambrauw",
+        "nama_singkatan_c": "Kab. Tambrauw"
+    },
+    {
+        "id": 514,
+        "nama_lengkap": "Kota Sorong",
+        "nama_singkatan": "Kota Sorong",
+        "nama_singkatan_c": "Kota Sorong"
+    }
+]

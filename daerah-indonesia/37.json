@@ -1,0 +1,50 @@
+[
+    {
+        "id": 501,
+        "nama_lengkap": "Kabupaten Jayawijaya",
+        "nama_singkatan": "Kab Jayawijaya",
+        "nama_singkatan_c": "Kab. Jayawijaya"
+    },
+    {
+        "id": 502,
+        "nama_lengkap": "Kabupaten Lanny Jaya",
+        "nama_singkatan": "Kab Lanny Jaya",
+        "nama_singkatan_c": "Kab. Lanny Jaya"
+    },
+    {
+        "id": 503,
+        "nama_lengkap": "Kabupaten Mamberamo Tengah",
+        "nama_singkatan": "Kab Mamberamo Tengah",
+        "nama_singkatan_c": "Kab. Mamberamo Tengah"
+    },
+    {
+        "id": 504,
+        "nama_lengkap": "Kabupaten Nduga",
+        "nama_singkatan": "Kab Nduga",
+        "nama_singkatan_c": "Kab. Nduga"
+    },
+    {
+        "id": 505,
+        "nama_lengkap": "Kabupaten Pegunungan Bintang",
+        "nama_singkatan": "Kab Pegunungan Bintang",
+        "nama_singkatan_c": "Kab. Pegunungan Bintang"
+    },
+    {
+        "id": 506,
+        "nama_lengkap": "Kabupaten Tolikara",
+        "nama_singkatan": "Kab Tolikara",
+        "nama_singkatan_c": "Kab. Tolikara"
+    },
+    {
+        "id": 507,
+        "nama_lengkap": "Kabupaten Yalimo",
+        "nama_singkatan": "Kab Yalimo",
+        "nama_singkatan_c": "Kab. Yalimo"
+    },
+    {
+        "id": 508,
+        "nama_lengkap": "Kabupaten Yahukimo",
+        "nama_singkatan": "Kab Yahukimo",
+        "nama_singkatan_c": "Kab. Yahukimo"
+    }
+]

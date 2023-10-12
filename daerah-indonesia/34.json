@@ -1,0 +1,44 @@
+[
+  {
+        "id": 482,
+        "nama_lengkap": "Kabupaten Fakfak",
+        "nama_singkatan": "Kab Fakfak",
+        "nama_singkatan_c": "Kab. Fakfak"
+    },
+    {
+        "id": 483,
+        "nama_lengkap": "Kabupaten Kaimana",
+        "nama_singkatan": "Kab Kaimana",
+        "nama_singkatan_c": "Kab. Kaimana"
+    },
+    {
+        "id": 484,
+        "nama_lengkap": "Kabupaten Manokwari",
+        "nama_singkatan": "Kab Manokwari",
+        "nama_singkatan_c": "Kab. Manokwari"
+    },
+    {
+        "id": 485,
+        "nama_lengkap": "Kabupaten Manokwari Selatan",
+        "nama_singkatan": "Kab Manokwari Selatan",
+        "nama_singkatan_c": "Kab. Manokwari Selatan"
+    },
+    {
+        "id": 486,
+        "nama_lengkap": "Kabupaten Pegunungan Arfak",
+        "nama_singkatan": "Kab Pegunungan Arfak",
+        "nama_singkatan_c": "Kab. Pegunungan Arfak"
+    },
+    {
+        "id": 487,
+        "nama_lengkap": "Kabupaten Teluk Bintuni",
+        "nama_singkatan": "Kab Teluk Bintuni",
+        "nama_singkatan_c": "Kab. Teluk Bintuni"
+    },
+    {
+        "id": 488,
+        "nama_lengkap": "Kabupaten Teluk Wondama",
+        "nama_singkatan": "Kab Teluk Wondama",
+        "nama_singkatan_c": "Kab. Teluk Wondama"
+    }
+]

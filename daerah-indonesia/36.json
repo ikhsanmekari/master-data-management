@@ -1,0 +1,50 @@
+[
+    {
+        "id": 493,
+        "nama_lengkap": "Kabupaten Deiyai",
+        "nama_singkatan": "Kab Deiyai",
+        "nama_singkatan_c": "Kab. Deiyai"
+    },
+    {
+        "id": 494,
+        "nama_lengkap": "Kabupaten Dogiyai",
+        "nama_singkatan": "Kab Dogiyai",
+        "nama_singkatan_c": "Kab. Dogiyai"
+    },
+    {
+        "id": 495,
+        "nama_lengkap": "Kabupaten Intan Jaya",
+        "nama_singkatan": "Kab Intan Jaya",
+        "nama_singkatan_c": "Kab. Intan Jaya"
+    },
+    {
+        "id": 496,
+        "nama_lengkap": "Kabupaten Mimika",
+        "nama_singkatan": "Kab Mimika",
+        "nama_singkatan_c": "Kab. Mimika"
+    },
+    {
+        "id": 497,
+        "nama_lengkap": "Kabupaten Nabire",
+        "nama_singkatan": "Kab Nabire",
+        "nama_singkatan_c": "Kab. Nabire"
+    },
+    {
+        "id": 498,
+        "nama_lengkap": "Kabupaten Paniai",
+        "nama_singkatan": "Kab Paniai",
+        "nama_singkatan_c": "Kab. Paniai"
+    },
+    {
+        "id": 499,
+        "nama_lengkap": "Kabupaten Puncak",
+        "nama_singkatan": "Kab Puncak",
+        "nama_singkatan_c": "Kab. Puncak"
+    },
+    {
+        "id": 500,
+        "nama_lengkap": "Kabupaten Puncak Jaya",
+        "nama_singkatan": "Kab Puncak Jaya",
+        "nama_singkatan_c": "Kab. Puncak Jaya"
+    }
+]
