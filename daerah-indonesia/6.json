@@ -1,0 +1,104 @@
+[
+  {
+    "id": "99",
+    "nama_lengkap": "Kabupaten Banyuasin",
+    "nama_singkatan": "Kab Banyuasin",
+    "nama_singkatan_c": "Kab. Banyuasin"
+  },
+  {
+    "id": "100",
+    "nama_lengkap": "Kabupaten Empat Lawang",
+    "nama_singkatan": "Kab Empat Lawang",
+    "nama_singkatan_c": "Kab. Empat Lawang"
+  },
+  {
+    "id": "101",
+    "nama_lengkap": "Kabupaten Lahat",
+    "nama_singkatan": "Kab Lahat",
+    "nama_singkatan_c": "Kab. Lahat"
+  },
+  {
+    "id": "102",
+    "nama_lengkap": "Kabupaten Muara Enim",
+    "nama_singkatan": "Kab Muara Enim",
+    "nama_singkatan_c": "Kab. Muara Enim"
+  },
+  {
+    "id": "103",
+    "nama_lengkap": "Kabupaten Musi Banyuasin",
+    "nama_singkatan": "Kab Musi Banyuasin",
+    "nama_singkatan_c": "Kab. Musi Banyuasin"
+  },
+  {
+    "id": "104",
+    "nama_lengkap": "Kabupaten Musi Rawas",
+    "nama_singkatan": "Kab Musi Rawas",
+    "nama_singkatan_c": "Kab. Musi Rawas"
+  },
+  {
+    "id": "105",
+    "nama_lengkap": "Kabupaten Musi Rawas Utara",
+    "nama_singkatan": "Kab Musi Rawas Utara",
+    "nama_singkatan_c": "Kab. Musi Rawas Utara"
+  },
+  {
+    "id": "106",
+    "nama_lengkap": "Kabupaten Ogan Ilir",
+    "nama_singkatan": "Kab Ogan Ilir",
+    "nama_singkatan_c": "Kab. Ogan Ilir"
+  },
+  {
+    "id": "107",
+    "nama_lengkap": "Kabupaten Ogan Komering Ilir",
+    "nama_singkatan": "Kab Ogan Komering Ilir",
+    "nama_singkatan_c": "Kab. Ogan Komering Ilir"
+  },
+  {
+    "id": "108",
+    "nama_lengkap": "Kabupaten Ogan Komering Ulu",
+    "nama_singkatan": "Kab Ogan Komering Ulu",
+    "nama_singkatan_c": "Kab. Ogan Komering Ulu"
+  },
+  {
+    "id": "109",
+    "nama_lengkap": "Kabupaten Ogan Komering Ulu Selatan",
+    "nama_singkatan": "Kab Ogan Komering Ulu Selatan",
+    "nama_singkatan_c": "Kab. Ogan Komering Ulu Selatan"
+  },
+  {
+    "id": "110",
+    "nama_lengkap": "Kabupaten Ogan Komering Ulu Timur",
+    "nama_singkatan": "Kab Ogan Komering Ulu Timur",
+    "nama_singkatan_c": "Kab. Ogan Komering Ulu Timur"
+  },
+  {
+    "id": "111",
+    "nama_lengkap": "Kabupaten Penukal Abab Lematang Ilir",
+    "nama_singkatan": "Kab Penukal Abab Lematang Ilir",
+    "nama_singkatan_c": "Kab. Penukal Abab Lematang Ilir"
+  },
+  {
+    "id": "112",
+    "nama_lengkap": "Kota Lubuklinggau",
+    "nama_singkatan": "Kota Lubuklinggau",
+    "nama_singkatan_c": "Kota Lubuklinggau"
+  },
+  {
+    "id": "113",
+    "nama_lengkap": "Kota Pagar Alam",
+    "nama_singkatan": "Kota Pagar Alam",
+    "nama_singkatan_c": "Kota Pagar Alam"
+  },
+  {
+    "id": "114",
+    "nama_lengkap": "Kota Palembang",
+    "nama_singkatan": "Kota Palembang",
+    "nama_singkatan_c": "Kota Palembang"
+  },
+  {
+    "id": "115",
+    "nama_lengkap": "Kota Prabumulih",
+    "nama_singkatan": "Kota Prabumulih",
+    "nama_singkatan_c": "Kota Prabumulih"
+  }
+]

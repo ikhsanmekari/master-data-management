@@ -1,0 +1,74 @@
+[
+  {
+    "id": "76",
+    "nama_lengkap": "Kabupaten Bengkalis",
+    "nama_singkatan": "Kab Bengkalis",
+    "nama_singkatan_c": "Kab. Bengkalis"
+  },
+  {
+    "id": "77",
+    "nama_lengkap": "Kabupaten Indragiri Hilir",
+    "nama_singkatan": "Kab Indragiri Hilir",
+    "nama_singkatan_c": "Kab. Indragiri Hilir"
+  },
+  {
+    "id": "78",
+    "nama_lengkap": "Kabupaten Indragiri Hulu",
+    "nama_singkatan": "Kab Indragiri Hulu",
+    "nama_singkatan_c": "Kab. Indragiri Hulu"
+  },
+  {
+    "id": "79",
+    "nama_lengkap": "Kabupaten Kampar",
+    "nama_singkatan": "Kab Kampar",
+    "nama_singkatan_c": "Kab. Kampar"
+  },
+  {
+    "id": "80",
+    "nama_lengkap": "Kabupaten Kepulauan Meranti",
+    "nama_singkatan": "Kab Kepulauan Meranti",
+    "nama_singkatan_c": "Kab. Kepulauan Meranti"
+  },
+  {
+    "id": "81",
+    "nama_lengkap": "Kabupaten Kuantan Singingi",
+    "nama_singkatan": "Kab Kuantan Singingi",
+    "nama_singkatan_c": "Kab. Kuantan Singingi"
+  },
+  {
+    "id": "82",
+    "nama_lengkap": "Kabupaten Pelalawan",
+    "nama_singkatan": "Kab Pelalawan",
+    "nama_singkatan_c": "Kab. Pelalawan"
+  },
+  {
+    "id": "83",
+    "nama_lengkap": "Kabupaten Rokan Hilir",
+    "nama_singkatan": "Kab Rokan Hilir",
+    "nama_singkatan_c": "Kab. Rokan Hilir"
+  },
+  {
+    "id": "84",
+    "nama_lengkap": "Kabupaten Rokan Hulu",
+    "nama_singkatan": "Kab Rokan Hulu",
+    "nama_singkatan_c": "Kab. Rokan Hulu"
+  },
+  {
+    "id": "85",
+    "nama_lengkap": "Kabupaten Siak",
+    "nama_singkatan": "Kab Siak",
+    "nama_singkatan_c": "Kab. Siak"
+  },
+  {
+    "id": "86",
+    "nama_lengkap": "Kota Dumai",
+    "nama_singkatan": "Kota Dumai",
+    "nama_singkatan_c": "Kota Dumai"
+  },
+  {
+    "id": "87",
+    "nama_lengkap": "Kota Pekanbaru",
+    "nama_singkatan": "Kota Pekanbaru",
+    "nama_singkatan_c": "Kota Pekanbaru"
+  }
+]

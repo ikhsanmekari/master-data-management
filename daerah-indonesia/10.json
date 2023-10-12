@@ -1,0 +1,44 @@
+[
+  {
+        "id": 148,
+        "nama_lengkap": "Kabupaten Bintan",
+        "nama_singkatan": "Kab Bintan",
+        "nama_singkatan_c": "Kab. Bintan"
+    },
+    {
+        "id": 149,
+        "nama_lengkap": "Kabupaten Karimun",
+        "nama_singkatan": "Kab Karimun",
+        "nama_singkatan_c": "Kab. Karimun"
+    },
+    {
+        "id": 150,
+        "nama_lengkap": "Kabupaten Kepulauan Anambas",
+        "nama_singkatan": "Kab Kepulauan Anambas",
+        "nama_singkatan_c": "Kab. Kepulauan Anambas"
+    },
+    {
+        "id": 151,
+        "nama_lengkap": "Kabupaten Lingga",
+        "nama_singkatan": "Kab Lingga",
+        "nama_singkatan_c": "Kab. Lingga"
+    },
+    {
+        "id": 152,
+        "nama_lengkap": "Kabupaten Natuna",
+        "nama_singkatan": "Kab Natuna",
+        "nama_singkatan_c": "Kab. Natuna"
+    },
+    {
+        "id": 153,
+        "nama_lengkap": "Kota Batam",
+        "nama_singkatan": "Kota Batam",
+        "nama_singkatan_c": "Kota Batam"
+    },
+    {
+        "id": 154,
+        "nama_lengkap": "Kota Tanjungpinang",
+        "nama_singkatan": "Kota Tanjungpinang",
+        "nama_singkatan_c": "Kota Tanjungpinang"
+    }
+]

@@ -1,0 +1,44 @@
+[
+  {
+        "id": 141,
+        "nama_lengkap": "Kabupaten Bangka",
+        "nama_singkatan": "Kab Bangka",
+        "nama_singkatan_c": "Kab. Bangka"
+    },
+    {
+        "id": 142,
+        "nama_lengkap": "Kabupaten Bangka Barat",
+        "nama_singkatan": "Kab Bangka Barat",
+        "nama_singkatan_c": "Kab. Bangka Barat"
+    },
+    {
+        "id": 143,
+        "nama_lengkap": "Kabupaten Bangka Selatan",
+        "nama_singkatan": "Kab Bangka Selatan",
+        "nama_singkatan_c": "Kab. Bangka Selatan"
+    },
+    {
+        "id": 144,
+        "nama_lengkap": "Kabupaten Bangka Tengah",
+        "nama_singkatan": "Kab Bangka Tengah",
+        "nama_singkatan_c": "Kab. Bangka Tengah"
+    },
+    {
+        "id": 145,
+        "nama_lengkap": "Kabupaten Belitung",
+        "nama_singkatan": "Kab Belitung",
+        "nama_singkatan_c": "Kab. Belitung"
+    },
+    {
+        "id": 146,
+        "nama_lengkap": "Kabupaten Belitung Timur",
+        "nama_singkatan": "Kab Belitung Timur",
+        "nama_singkatan_c": "Kab. Belitung Timur"
+    },
+    {
+        "id": 147,
+        "nama_lengkap": "Kota Pangkalpinang",
+        "nama_singkatan": "Kota Pangkalpinang",
+        "nama_singkatan_c": "Kota Pangkalpinang"
+    }
+]

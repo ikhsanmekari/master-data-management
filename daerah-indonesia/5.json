@@ -1,0 +1,68 @@
+[
+  {
+    "id": "88",
+    "nama_lengkap": "Kabupaten Batanghari",
+    "nama_singkatan": "Kab Batanghari",
+    "nama_singkatan_c": "Kab. Batanghari"
+  },
+  {
+    "id": "89",
+    "nama_lengkap": "Kabupaten Bungo",
+    "nama_singkatan": "Kab Bungo",
+    "nama_singkatan_c": "Kab. Bungo"
+  },
+  {
+    "id": "90",
+    "nama_lengkap": "Kabupaten Kerinci",
+    "nama_singkatan": "Kab Kerinci",
+    "nama_singkatan_c": "Kab. Kerinci"
+  },
+  {
+    "id": "91",
+    "nama_lengkap": "Kabupaten Merangin",
+    "nama_singkatan": "Kab Merangin",
+    "nama_singkatan_c": "Kab. Merangin"
+  },
+  {
+    "id": "92",
+    "nama_lengkap": "Kabupaten Muaro Jambi",
+    "nama_singkatan": "Kab Muaro Jambi",
+    "nama_singkatan_c": "Kab. Muaro Jambi"
+  },
+  {
+    "id": "93",
+    "nama_lengkap": "Kabupaten Sarolangun",
+    "nama_singkatan": "Kab Sarolangun",
+    "nama_singkatan_c": "Kab. Sarolangun"
+  },
+  {
+    "id": "94",
+    "nama_lengkap": "Kabupaten Tanjung Jabung Barat",
+    "nama_singkatan": "Kab Tanjung Jabung Barat",
+    "nama_singkatan_c": "Kab. Tanjung Jabung Barat"
+  },
+  {
+    "id": "95",
+    "nama_lengkap": "Kabupaten Tanjung Jabung Timur",
+    "nama_singkatan": "Kab Tanjung Jabung Timur",
+    "nama_singkatan_c": "Kab. Tanjung Jabung Timur"
+  },
+  {
+    "id": "96",
+    "nama_lengkap": "Kabupaten Tebo",
+    "nama_singkatan": "Kab Tebo",
+    "nama_singkatan_c": "Kab. Tebo"
+  },
+  {
+    "id": "97",
+    "nama_lengkap": "Kota Jambi",
+    "nama_singkatan": "Kota Jambi",
+    "nama_singkatan_c": "Kota Jambi"
+  },
+  {
+    "id": "98",
+    "nama_lengkap": "Kota Sungai Penuh",
+    "nama_singkatan": "Kota Sungai Penuh",
+    "nama_singkatan_c": "Kota Sungai Penuh"
+  }
+]

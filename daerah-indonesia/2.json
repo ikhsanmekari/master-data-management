@@ -1,14 +1,200 @@
 [
   {
-    "id": "1",
-    "nama_lengkap": "Kabupaten",
-    "nama_singkatan": "Kab A",
-    "nama_singkatan_c": "Kab. A"
+    "id": "24",
+    "nama_lengkap": "Kabupaten Asahan",
+    "nama_singkatan": "Kab Asahan",
+    "nama_singkatan_c": "Kab. Asahan"
   },
   {
-    "id": "2",
-    "nama_lengkap": "Kabupaten",
-    "nama_singkatan": "Kab A",
-    "nama_singkatan_c": "Kab. A"
+    "id": "25",
+    "nama_lengkap": "Kabupaten Batu Bara",
+    "nama_singkatan": "Kab Batu Bara",
+    "nama_singkatan_c": "Kab. Batu Bara"
+  },
+  {
+    "id": "26",
+    "nama_lengkap": "Kabupaten Dairi",
+    "nama_singkatan": "Kab Dairi",
+    "nama_singkatan_c": "Kab. Dairi"
+  },
+  {
+    "id": "27",
+    "nama_lengkap": "Kabupaten Deli Serdang",
+    "nama_singkatan": "Kab Deli Serdang",
+    "nama_singkatan_c": "Kab. Deli Serdang"
+  },
+  {
+    "id": "28",
+    "nama_lengkap": "Kabupaten Humbang Hasundutan",
+    "nama_singkatan": "Kab Humbang Hasundutan",
+    "nama_singkatan_c": "Kab. Humbang Hasundutan"
+  },
+  {
+    "id": "29",
+    "nama_lengkap": "Kabupaten Karo",
+    "nama_singkatan": "Kab Karo",
+    "nama_singkatan_c": "Kab. Karo"
+  },
+  {
+    "id": "30",
+    "nama_lengkap": "Kabupaten Labuhanbatu",
+    "nama_singkatan": "Kab Labuhanbatu",
+    "nama_singkatan_c": "Kab. Labuhanbatu"
+  },
+  {
+    "id": "31",
+    "nama_lengkap": "Kabupaten Labuhanbatu Selatan",
+    "nama_singkatan": "Kab Labuhanbatu Selatan",
+    "nama_singkatan_c": "Kab. Labuhanbatu Selatan"
+  },
+  {
+    "id": "32",
+    "nama_lengkap": "Kabupaten Labuhanbatu Utara",
+    "nama_singkatan": "Kab Labuhanbatu Utara",
+    "nama_singkatan_c": "Kab. Labuhanbatu Utara"
+  },
+  {
+    "id": "33",
+    "nama_lengkap": "Kabupaten Langkat",
+    "nama_singkatan": "Kab Langkat",
+    "nama_singkatan_c": "Kab. Langkat"
+  },
+  {
+    "id": "34",
+    "nama_lengkap": "Kabupaten Mandailing Natal",
+    "nama_singkatan": "Kab Mandailing Natal",
+    "nama_singkatan_c": "Kab. Mandailing Natal"
+  },
+  {
+    "id": "35",
+    "nama_lengkap": "Kabupaten Nias",
+    "nama_singkatan": "Kab Nias",
+    "nama_singkatan_c": "Kab. Nias"
+  },
+  {
+    "id": "36",
+    "nama_lengkap": "Kabupaten Nias Barat",
+    "nama_singkatan": "Kab Nias Barat",
+    "nama_singkatan_c": "Kab. Nias Barat"
+  },
+  {
+    "id": "37",
+    "nama_lengkap": "Kabupaten Nias Selatan",
+    "nama_singkatan": "Kab Nias Selatan",
+    "nama_singkatan_c": "Kab. Nias Selatan"
+  },
+  {
+    "id": "38",
+    "nama_lengkap": "Kabupaten Nias Utara",
+    "nama_singkatan": "Kab Nias Utara",
+    "nama_singkatan_c": "Kab. Nias Utara"
+  },
+  {
+    "id": "39",
+    "nama_lengkap": "Kabupaten Padang Lawas",
+    "nama_singkatan": "Kab Padang Lawas",
+    "nama_singkatan_c": "Kab. Padang Lawas"
+  },
+  {
+    "id": "40",
+    "nama_lengkap": "Kabupaten Padang Lawas Utara",
+    "nama_singkatan": "Kab Padang Lawas Utara",
+    "nama_singkatan_c": "Kab. Padang Lawas Utara"
+  },
+  {
+    "id": "41",
+    "nama_lengkap": "Kabupaten Pakpak Bharat",
+    "nama_singkatan": "Kab Pakpak Bharat",
+    "nama_singkatan_c": "Kab. Pakpak Bharat"
+  },
+  {
+    "id": "42",
+    "nama_lengkap": "Kabupaten Samosir",
+    "nama_singkatan": "Kab Samosir",
+    "nama_singkatan_c": "Kab. Samosir"
+  },
+  {
+    "id": "43",
+    "nama_lengkap": "Kabupaten Serdang Bedagai",
+    "nama_singkatan": "Kab Serdang Bedagai",
+    "nama_singkatan_c": "Kab. Serdang Bedagai"
+  },
+  {
+    "id": "44",
+    "nama_lengkap": "Kabupaten Simalungun",
+    "nama_singkatan": "Kab Simalungun",
+    "nama_singkatan_c": "Kab. Simalungun"
+  },
+  {
+    "id": "45",
+    "nama_lengkap": "Kabupaten Tapanuli Selatan",
+    "nama_singkatan": "Kab Tapanuli Selatan",
+    "nama_singkatan_c": "Kab. Tapanuli Selatan"
+  },
+  {
+    "id": "46",
+    "nama_lengkap": "Kabupaten Tapanuli Tengah",
+    "nama_singkatan": "Kab Tapanuli Tengah",
+    "nama_singkatan_c": "Kab. Tapanuli Tengah"
+  },
+  {
+    "id": "47",
+    "nama_lengkap": "Kabupaten Tapanuli Utara",
+    "nama_singkatan": "Kab Tapanuli Utara",
+    "nama_singkatan_c": "Kab. Tapanuli Utara"
+  },
+  {
+    "id": "48",
+    "nama_lengkap": "Kabupaten Toba",
+    "nama_singkatan": "Kab Toba",
+    "nama_singkatan_c": "Kab. Toba"
+  },
+  {
+    "id": "49",
+    "nama_lengkap": "Kota Binjai",
+    "nama_singkatan": "Kota Binjai",
+    "nama_singkatan_c": "Kota Binjai"
+  },
+  {
+    "id": "50",
+    "nama_lengkap": "Kota Gunungsitoli",
+    "nama_singkatan": "Kota Gunungsitoli",
+    "nama_singkatan_c": "Kota Gunungsitoli"
+  },
+  {
+    "id": "51",
+    "nama_lengkap": "Kota Medan",
+    "nama_singkatan": "Kota Medan",
+    "nama_singkatan_c": "Kota Medan"
+  },
+  {
+    "id": "52",
+    "nama_lengkap": "Kota Padang Sidempuan",
+    "nama_singkatan": "Kota Padang Sidempuan",
+    "nama_singkatan_c": "Kota Padang Sidempuan"
+  },
+  {
+    "id": "53",
+    "nama_lengkap": "Kota Pematangsiantar",
+    "nama_singkatan": "Kota Pematangsiantar",
+    "nama_singkatan_c": "Kota Pematangsiantar"
+  },
+  {
+    "id": "54",
+    "nama_lengkap": "Kota Sibolga",
+    "nama_singkatan": "Kota Sibolga",
+    "nama_singkatan_c": "Kota Sibolga"
+  },
+  {
+    "id": "55",
+    "nama_lengkap": "Kota Tanjungbalai",
+    "nama_singkatan": "Kota Tanjungbalai",
+    "nama_singkatan_c": "Kota Tanjungbalai"
+  },
+  {
+    "id": "56",
+    "nama_lengkap": "Kota Tebing Tinggi",
+    "nama_singkatan": "Kota Tebing Tinggi",
+    "nama_singkatan_c": "Kota Tebing Tinggi"
   }
 ]
