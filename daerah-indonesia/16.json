@@ -1,0 +1,50 @@
+[
+  {
+        "id": 266,
+        "nama_lengkap": "Kabupaten Lebak",
+        "nama_singkatan": "Kab Lebak",
+        "nama_singkatan_c": "Kab. Lebak"
+    },
+    {
+        "id": 267,
+        "nama_lengkap": "Kabupaten Pandeglang",
+        "nama_singkatan": "Kab Pandeglang",
+        "nama_singkatan_c": "Kab. Pandeglang"
+    },
+    {
+        "id": 268,
+        "nama_lengkap": "Kabupaten Serang",
+        "nama_singkatan": "Kab Serang",
+        "nama_singkatan_c": "Kab. Serang"
+    },
+    {
+        "id": 269,
+        "nama_lengkap": "Kabupaten Tangerang",
+        "nama_singkatan": "Kab Tangerang",
+        "nama_singkatan_c": "Kab. Tangerang"
+    },
+    {
+        "id": 270,
+        "nama_lengkap": "Kota Cilegon",
+        "nama_singkatan": "Kota Cilegon",
+        "nama_singkatan_c": "Kota Cilegon"
+    },
+    {
+        "id": 271,
+        "nama_lengkap": "Kota Serang",
+        "nama_singkatan": "Kota Serang",
+        "nama_singkatan_c": "Kota Serang"
+    },
+    {
+        "id": 272,
+        "nama_lengkap": "Kota Tangerang",
+        "nama_singkatan": "Kota Tangerang",
+        "nama_singkatan_c": "Kota Tangerang"
+    },
+    {
+        "id": 273,
+        "nama_lengkap": "Kota Tangerang Selatan",
+        "nama_singkatan": "Kota Tangerang Selatan",
+        "nama_singkatan_c": "Kota Tangerang Selatan"
+    }
+]

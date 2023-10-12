@@ -1,0 +1,164 @@
+[
+  {
+        "id": 161,
+        "nama_lengkap": "Kabupaten Bandung",
+        "nama_singkatan": "Kab Bandung",
+        "nama_singkatan_c": "Kab. Bandung"
+    },
+    {
+        "id": 162,
+        "nama_lengkap": "Kabupaten Bandung Barat",
+        "nama_singkatan": "Kab Bandung Barat",
+        "nama_singkatan_c": "Kab. Bandung Barat"
+    },
+    {
+        "id": 163,
+        "nama_lengkap": "Kabupaten Bekasi",
+        "nama_singkatan": "Kab Bekasi",
+        "nama_singkatan_c": "Kab. Bekasi"
+    },
+    {
+        "id": 164,
+        "nama_lengkap": "Kabupaten Bogor",
+        "nama_singkatan": "Kab Bogor",
+        "nama_singkatan_c": "Kab. Bogor"
+    },
+    {
+        "id": 165,
+        "nama_lengkap": "Kabupaten Ciamis",
+        "nama_singkatan": "Kab Ciamis",
+        "nama_singkatan_c": "Kab. Ciamis"
+    },
+    {
+        "id": 166,
+        "nama_lengkap": "Kabupaten Cianjur",
+        "nama_singkatan": "Kab Cianjur",
+        "nama_singkatan_c": "Kab. Cianjur"
+    },
+    {
+        "id": 167,
+        "nama_lengkap": "Kabupaten Cirebon",
+        "nama_singkatan": "Kab Cirebon",
+        "nama_singkatan_c": "Kab. Cirebon"
+    },
+    {
+        "id": 168,
+        "nama_lengkap": "Kabupaten Garut",
+        "nama_singkatan": "Kab Garut",
+        "nama_singkatan_c": "Kab. Garut"
+    },
+    {
+        "id": 169,
+        "nama_lengkap": "Kabupaten Indramayu",
+        "nama_singkatan": "Kab Indramayu",
+        "nama_singkatan_c": "Kab. Indramayu"
+    },
+    {
+        "id": 170,
+        "nama_lengkap": "Kabupaten Karawang",
+        "nama_singkatan": "Kab Karawang",
+        "nama_singkatan_c": "Kab. Karawang"
+    },
+    {
+        "id": 171,
+        "nama_lengkap": "Kabupaten Kuningan",
+        "nama_singkatan": "Kab Kuningan",
+        "nama_singkatan_c": "Kab. Kuningan"
+    },
+    {
+        "id": 172,
+        "nama_lengkap": "Kabupaten Majalengka",
+        "nama_singkatan": "Kab Majalengka",
+        "nama_singkatan_c": "Kab. Majalengka"
+    },
+    {
+        "id": 173,
+        "nama_lengkap": "Kabupaten Pangandaran",
+        "nama_singkatan": "Kab Pangandaran",
+        "nama_singkatan_c": "Kab. Pangandaran"
+    },
+    {
+        "id": 174,
+        "nama_lengkap": "Kabupaten Purwakarta",
+        "nama_singkatan": "Kab Purwakarta",
+        "nama_singkatan_c": "Kab. Purwakarta"
+    },
+    {
+        "id": 175,
+        "nama_lengkap": "Kabupaten Subang",
+        "nama_singkatan": "Kab Subang",
+        "nama_singkatan_c": "Kab. Subang"
+    },
+    {
+        "id": 176,
+        "nama_lengkap": "Kabupaten Sukabumi",
+        "nama_singkatan": "Kab Sukabumi",
+        "nama_singkatan_c": "Kab. Sukabumi"
+    },
+    {
+        "id": 177,
+        "nama_lengkap": "Kabupaten Sumedang",
+        "nama_singkatan": "Kab Sumedang",
+        "nama_singkatan_c": "Kab. Sumedang"
+    },
+    {
+        "id": 178,
+        "nama_lengkap": "Kabupaten Tasikmalaya",
+        "nama_singkatan": "Kab Tasikmalaya",
+        "nama_singkatan_c": "Kab. Tasikmalaya"
+    },
+    {
+        "id": 179,
+        "nama_lengkap": "Kota Bandung",
+        "nama_singkatan": "Kota Bandung",
+        "nama_singkatan_c": "Kota Bandung"
+    },
+    {
+        "id": 180,
+        "nama_lengkap": "Kota Banjar",
+        "nama_singkatan": "Kota Banjar",
+        "nama_singkatan_c": "Kota Banjar"
+    },
+    {
+        "id": 181,
+        "nama_lengkap": "Kota Bekasi",
+        "nama_singkatan": "Kota Bekasi",
+        "nama_singkatan_c": "Kota Bekasi"
+    },
+    {
+        "id": 182,
+        "nama_lengkap": "Kota Bogor",
+        "nama_singkatan": "Kota Bogor",
+        "nama_singkatan_c": "Kota Bogor"
+    },
+    {
+        "id": 183,
+        "nama_lengkap": "Kota Cimahi",
+        "nama_singkatan": "Kota Cimahi",
+        "nama_singkatan_c": "Kota Cimahi"
+    },
+    {
+        "id": 184,
+        "nama_lengkap": "Kota Cirebon",
+        "nama_singkatan": "Kota Cirebon",
+        "nama_singkatan_c": "Kota Cirebon"
+    },
+    {
+        "id": 185,
+        "nama_lengkap": "Kota Depok",
+        "nama_singkatan": "Kota Depok",
+        "nama_singkatan_c": "Kota Depok"
+    },
+    {
+        "id": 186,
+        "nama_lengkap": "Kota Sukabumi",
+        "nama_singkatan": "Kota Sukabumi",
+        "nama_singkatan_c": "Kota Sukabumi"
+    },
+    {
+        "id": 187,
+        "nama_lengkap": "Kota Tasikmalaya",
+        "nama_singkatan": "Kota Tasikmalaya",
+        "nama_singkatan_c": "Kota Tasikmalaya"
+    }
+]

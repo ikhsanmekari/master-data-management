@@ -1,0 +1,38 @@
+[
+  {
+        "id": 155,
+        "nama_lengkap": "Kota Administrasi Jakarta Barat",
+        "nama_singkatan": "Kota Administrasi Jakarta Barat",
+        "nama_singkatan_c": "Kota Administrasi Jakarta Barat"
+    },
+    {
+        "id": 156,
+        "nama_lengkap": "Kota Administrasi Jakarta Pusat",
+        "nama_singkatan": "Kota Administrasi Jakarta Pusat",
+        "nama_singkatan_c": "Kota Administrasi Jakarta Pusat"
+    },
+    {
+        "id": 157,
+        "nama_lengkap": "Kota Administrasi Jakarta Selatan",
+        "nama_singkatan": "Kota Administrasi Jakarta Selatan",
+        "nama_singkatan_c": "Kota Administrasi Jakarta Selatan"
+    },
+    {
+        "id": 158,
+        "nama_lengkap": "Kota Administrasi Jakarta Timur",
+        "nama_singkatan": "Kota Administrasi Jakarta Timur",
+        "nama_singkatan_c": "Kota Administrasi Jakarta Timur"
+    },
+    {
+        "id": 159,
+        "nama_lengkap": "Kota Administrasi Jakarta Utara",
+        "nama_singkatan": "Kota Administrasi Jakarta Utara",
+        "nama_singkatan_c": "Kota Administrasi Jakarta Utara"
+    },
+    {
+        "id": 160,
+        "nama_lengkap": "Kabupaten Administrasi Kepulauan Seribu",
+        "nama_singkatan": "Kab Administrasi Kepulauan Seribu",
+        "nama_singkatan_c": "Kab. Administrasi Kepulauan Seribu"
+    }
+]

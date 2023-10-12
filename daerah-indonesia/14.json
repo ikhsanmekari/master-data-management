@@ -1,0 +1,32 @@
+[
+  {
+        "id": 223,
+        "nama_lengkap": "Kabupaten Bantul",
+        "nama_singkatan": "Kab Bantul",
+        "nama_singkatan_c": "Kab. Bantul"
+    },
+    {
+        "id": 224,
+        "nama_lengkap": "Kabupaten Gunungkidul",
+        "nama_singkatan": "Kab Gunungkidul",
+        "nama_singkatan_c": "Kab. Gunungkidul"
+    },
+    {
+        "id": 225,
+        "nama_lengkap": "Kabupaten Kulon Progo",
+        "nama_singkatan": "Kab Kulon Progo",
+        "nama_singkatan_c": "Kab. Kulon Progo"
+    },
+    {
+        "id": 226,
+        "nama_lengkap": "Kabupaten Sleman",
+        "nama_singkatan": "Kab Sleman",
+        "nama_singkatan_c": "Kab. Sleman"
+    },
+    {
+        "id": 227,
+        "nama_lengkap": "Kota Yogyakarta",
+        "nama_singkatan": "Kota Yogyakarta",
+        "nama_singkatan_c": "Kota Yogyakarta"
+    }
+]

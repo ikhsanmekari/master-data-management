@@ -1,0 +1,212 @@
+[
+  {
+        "id": 188,
+        "nama_lengkap": "Kabupaten Banjarnegara",
+        "nama_singkatan": "Kab Banjarnegara",
+        "nama_singkatan_c": "Kab. Banjarnegara"
+    },
+    {
+        "id": 189,
+        "nama_lengkap": "Kabupaten Banyumas",
+        "nama_singkatan": "Kab Banyumas",
+        "nama_singkatan_c": "Kab. Banyumas"
+    },
+    {
+        "id": 190,
+        "nama_lengkap": "Kabupaten Batang",
+        "nama_singkatan": "Kab Batang",
+        "nama_singkatan_c": "Kab. Batang"
+    },
+    {
+        "id": 191,
+        "nama_lengkap": "Kabupaten Blora",
+        "nama_singkatan": "Kab Blora",
+        "nama_singkatan_c": "Kab. Blora"
+    },
+    {
+        "id": 192,
+        "nama_lengkap": "Kabupaten Boyolali",
+        "nama_singkatan": "Kab Boyolali",
+        "nama_singkatan_c": "Kab. Boyolali"
+    },
+    {
+        "id": 193,
+        "nama_lengkap": "Kabupaten Brebes",
+        "nama_singkatan": "Kab Brebes",
+        "nama_singkatan_c": "Kab. Brebes"
+    },
+    {
+        "id": 194,
+        "nama_lengkap": "Kabupaten Cilacap",
+        "nama_singkatan": "Kab Cilacap",
+        "nama_singkatan_c": "Kab. Cilacap"
+    },
+    {
+        "id": 195,
+        "nama_lengkap": "Kabupaten Demak",
+        "nama_singkatan": "Kab Demak",
+        "nama_singkatan_c": "Kab. Demak"
+    },
+    {
+        "id": 196,
+        "nama_lengkap": "Kabupaten Grobogan",
+        "nama_singkatan": "Kab Grobogan",
+        "nama_singkatan_c": "Kab. Grobogan"
+    },
+    {
+        "id": 197,
+        "nama_lengkap": "Kabupaten Jepara",
+        "nama_singkatan": "Kab Jepara",
+        "nama_singkatan_c": "Kab. Jepara"
+    },
+    {
+        "id": 198,
+        "nama_lengkap": "Kabupaten Karanganyar",
+        "nama_singkatan": "Kab Karanganyar",
+        "nama_singkatan_c": "Kab. Karanganyar"
+    },
+    {
+        "id": 199,
+        "nama_lengkap": "Kabupaten Kebumen",
+        "nama_singkatan": "Kab Kebumen",
+        "nama_singkatan_c": "Kab. Kebumen"
+    },
+    {
+        "id": 200,
+        "nama_lengkap": "Kabupaten Kendal",
+        "nama_singkatan": "Kab Kendal",
+        "nama_singkatan_c": "Kab. Kendal"
+    },
+    {
+        "id": 201,
+        "nama_lengkap": "Kabupaten Klaten",
+        "nama_singkatan": "Kab Klaten",
+        "nama_singkatan_c": "Kab. Klaten"
+    },
+    {
+        "id": 202,
+        "nama_lengkap": "Kabupaten Kudus",
+        "nama_singkatan": "Kab Kudus",
+        "nama_singkatan_c": "Kab. Kudus"
+    },
+    {
+        "id": 203,
+        "nama_lengkap": "Kabupaten Magelang",
+        "nama_singkatan": "Kab Magelang",
+        "nama_singkatan_c": "Kab. Magelang"
+    },
+    {
+        "id": 204,
+        "nama_lengkap": "Kabupaten Pati",
+        "nama_singkatan": "Kab Pati",
+        "nama_singkatan_c": "Kab. Pati"
+    },
+    {
+        "id": 205,
+        "nama_lengkap": "Kabupaten Pekalongan",
+        "nama_singkatan": "Kab Pekalongan",
+        "nama_singkatan_c": "Kab. Pekalongan"
+    },
+    {
+        "id": 206,
+        "nama_lengkap": "Kabupaten Pemalang",
+        "nama_singkatan": "Kab Pemalang",
+        "nama_singkatan_c": "Kab. Pemalang"
+    },
+    {
+        "id": 207,
+        "nama_lengkap": "Kabupaten Purbalingga",
+        "nama_singkatan": "Kab Purbalingga",
+        "nama_singkatan_c": "Kab. Purbalingga"
+    },
+    {
+        "id": 208,
+        "nama_lengkap": "Kabupaten Purworejo",
+        "nama_singkatan": "Kab Purworejo",
+        "nama_singkatan_c": "Kab. Purworejo"
+    },
+    {
+        "id": 209,
+        "nama_lengkap": "Kabupaten Rembang",
+        "nama_singkatan": "Kab Rembang",
+        "nama_singkatan_c": "Kab. Rembang"
+    },
+    {
+        "id": 210,
+        "nama_lengkap": "Kabupaten Semarang",
+        "nama_singkatan": "Kab Semarang",
+        "nama_singkatan_c": "Kab. Semarang"
+    },
+    {
+        "id": 211,
+        "nama_lengkap": "Kabupaten Sragen",
+        "nama_singkatan": "Kab Sragen",
+        "nama_singkatan_c": "Kab. Sragen"
+    },
+    {
+        "id": 212,
+        "nama_lengkap": "Kabupaten Sukoharjo",
+        "nama_singkatan": "Kab Sukoharjo",
+        "nama_singkatan_c": "Kab. Sukoharjo"
+    },
+    {
+        "id": 213,
+        "nama_lengkap": "Kabupaten Tegal",
+        "nama_singkatan": "Kab Tegal",
+        "nama_singkatan_c": "Kab. Tegal"
+    },
+    {
+        "id": 214,
+        "nama_lengkap": "Kabupaten Temanggung",
+        "nama_singkatan": "Kab Temanggung",
+        "nama_singkatan_c": "Kab. Temanggung"
+    },
+    {
+        "id": 215,
+        "nama_lengkap": "Kabupaten Wonogiri",
+        "nama_singkatan": "Kab Wonogiri",
+        "nama_singkatan_c": "Kab. Wonogiri"
+    },
+    {
+        "id": 216,
+        "nama_lengkap": "Kabupaten Wonosobo",
+        "nama_singkatan": "Kab Wonosobo",
+        "nama_singkatan_c": "Kab. Wonosobo"
+    },
+    {
+        "id": 217,
+        "nama_lengkap": "Kota Magelang",
+        "nama_singkatan": "Kota Magelang",
+        "nama_singkatan_c": "Kota Magelang"
+    },
+    {
+        "id": 218,
+        "nama_lengkap": "Kota Pekalongan",
+        "nama_singkatan": "Kota Pekalongan",
+        "nama_singkatan_c": "Kota Pekalongan"
+    },
+    {
+        "id": 219,
+        "nama_lengkap": "Kota Salatiga",
+        "nama_singkatan": "Kota Salatiga",
+        "nama_singkatan_c": "Kota Salatiga"
+    },
+    {
+        "id": 220,
+        "nama_lengkap": "Kota Semarang",
+        "nama_singkatan": "Kota Semarang",
+        "nama_singkatan_c": "Kota Semarang"
+    },
+    {
+        "id": 221,
+        "nama_lengkap": "Kota Surakarta",
+        "nama_singkatan": "Kota Surakarta",
+        "nama_singkatan_c": "Kota Surakarta"
+    },
+    {
+        "id": 222,
+        "nama_lengkap": "Kota Tegal",
+        "nama_singkatan": "Kota Tegal",
+        "nama_singkatan_c": "Kota Tegal"
+    }
+]

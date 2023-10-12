@@ -1,0 +1,230 @@
+[
+  {
+        "id": 228,
+        "nama_lengkap": "Kabupaten Bangkalan",
+        "nama_singkatan": "Kab Bangkalan",
+        "nama_singkatan_c": "Kab. Bangkalan"
+    },
+    {
+        "id": 229,
+        "nama_lengkap": "Kabupaten Banyuwangi",
+        "nama_singkatan": "Kab Banyuwangi",
+        "nama_singkatan_c": "Kab. Banyuwangi"
+    },
+    {
+        "id": 230,
+        "nama_lengkap": "Kabupaten Blitar",
+        "nama_singkatan": "Kab Blitar",
+        "nama_singkatan_c": "Kab. Blitar"
+    },
+    {
+        "id": 231,
+        "nama_lengkap": "Kabupaten Bojonegoro",
+        "nama_singkatan": "Kab Bojonegoro",
+        "nama_singkatan_c": "Kab. Bojonegoro"
+    },
+    {
+        "id": 232,
+        "nama_lengkap": "Kabupaten Bondowoso",
+        "nama_singkatan": "Kab Bondowoso",
+        "nama_singkatan_c": "Kab. Bondowoso"
+    },
+    {
+        "id": 233,
+        "nama_lengkap": "Kabupaten Gresik",
+        "nama_singkatan": "Kab Gresik",
+        "nama_singkatan_c": "Kab. Gresik"
+    },
+    {
+        "id": 234,
+        "nama_lengkap": "Kabupaten Jember",
+        "nama_singkatan": "Kab Jember",
+        "nama_singkatan_c": "Kab. Jember"
+    },
+    {
+        "id": 235,
+        "nama_lengkap": "Kabupaten Jombang",
+        "nama_singkatan": "Kab Jombang",
+        "nama_singkatan_c": "Kab. Jombang"
+    },
+    {
+        "id": 236,
+        "nama_lengkap": "Kabupaten Kediri",
+        "nama_singkatan": "Kab Kediri",
+        "nama_singkatan_c": "Kab. Kediri"
+    },
+    {
+        "id": 237,
+        "nama_lengkap": "Kabupaten Lamongan",
+        "nama_singkatan": "Kab Lamongan",
+        "nama_singkatan_c": "Kab. Lamongan"
+    },
+    {
+        "id": 238,
+        "nama_lengkap": "Kabupaten Lumajang",
+        "nama_singkatan": "Kab Lumajang",
+        "nama_singkatan_c": "Kab. Lumajang"
+    },
+    {
+        "id": 239,
+        "nama_lengkap": "Kabupaten Madiun",
+        "nama_singkatan": "Kab Madiun",
+        "nama_singkatan_c": "Kab. Madiun"
+    },
+    {
+        "id": 240,
+        "nama_lengkap": "Kabupaten Magetan",
+        "nama_singkatan": "Kab Magetan",
+        "nama_singkatan_c": "Kab. Magetan"
+    },
+    {
+        "id": 241,
+        "nama_lengkap": "Kabupaten Malang",
+        "nama_singkatan": "Kab Malang",
+        "nama_singkatan_c": "Kab. Malang"
+    },
+    {
+        "id": 242,
+        "nama_lengkap": "Kabupaten Mojokerto",
+        "nama_singkatan": "Kab Mojokerto",
+        "nama_singkatan_c": "Kab. Mojokerto"
+    },
+    {
+        "id": 243,
+        "nama_lengkap": "Kabupaten Nganjuk",
+        "nama_singkatan": "Kab Nganjuk",
+        "nama_singkatan_c": "Kab. Nganjuk"
+    },
+    {
+        "id": 244,
+        "nama_lengkap": "Kabupaten Ngawi",
+        "nama_singkatan": "Kab Ngawi",
+        "nama_singkatan_c": "Kab. Ngawi"
+    },
+    {
+        "id": 245,
+        "nama_lengkap": "Kabupaten Pacitan",
+        "nama_singkatan": "Kab Pacitan",
+        "nama_singkatan_c": "Kab. Pacitan"
+    },
+    {
+        "id": 246,
+        "nama_lengkap": "Kabupaten Pamekasan",
+        "nama_singkatan": "Kab Pamekasan",
+        "nama_singkatan_c": "Kab. Pamekasan"
+    },
+    {
+        "id": 247,
+        "nama_lengkap": "Kabupaten Pasuruan",
+        "nama_singkatan": "Kab Pasuruan",
+        "nama_singkatan_c": "Kab. Pasuruan"
+    },
+    {
+        "id": 248,
+        "nama_lengkap": "Kabupaten Ponorogo",
+        "nama_singkatan": "Kab Ponorogo",
+        "nama_singkatan_c": "Kab. Ponorogo"
+    },
+    {
+        "id": 249,
+        "nama_lengkap": "Kabupaten Probolinggo",
+        "nama_singkatan": "Kab Probolinggo",
+        "nama_singkatan_c": "Kab. Probolinggo"
+    },
+    {
+        "id": 250,
+        "nama_lengkap": "Kabupaten Sampang",
+        "nama_singkatan": "Kab Sampang",
+        "nama_singkatan_c": "Kab. Sampang"
+    },
+    {
+        "id": 251,
+        "nama_lengkap": "Kabupaten Sidoarjo",
+        "nama_singkatan": "Kab Sidoarjo",
+        "nama_singkatan_c": "Kab. Sidoarjo"
+    },
+    {
+        "id": 252,
+        "nama_lengkap": "Kabupaten Situbondo",
+        "nama_singkatan": "Kab Situbondo",
+        "nama_singkatan_c": "Kab. Situbondo"
+    },
+    {
+        "id": 253,
+        "nama_lengkap": "Kabupaten Sumenep",
+        "nama_singkatan": "Kab Sumenep",
+        "nama_singkatan_c": "Kab. Sumenep"
+    },
+    {
+        "id": 254,
+        "nama_lengkap": "Kabupaten Trenggalek",
+        "nama_singkatan": "Kab Trenggalek",
+        "nama_singkatan_c": "Kab. Trenggalek"
+    },
+    {
+        "id": 255,
+        "nama_lengkap": "Kabupaten Tuban",
+        "nama_singkatan": "Kab Tuban",
+        "nama_singkatan_c": "Kab. Tuban"
+    },
+    {
+        "id": 256,
+        "nama_lengkap": "Kabupaten Tulungagung",
+        "nama_singkatan": "Kab Tulungagung",
+        "nama_singkatan_c": "Kab. Tulungagung"
+    },
+    {
+        "id": 257,
+        "nama_lengkap": "Kota Batu",
+        "nama_singkatan": "Kota Batu",
+        "nama_singkatan_c": "Kota Batu"
+    },
+    {
+        "id": 258,
+        "nama_lengkap": "Kota Blitar",
+        "nama_singkatan": "Kota Blitar",
+        "nama_singkatan_c": "Kota Blitar"
+    },
+    {
+        "id": 259,
+        "nama_lengkap": "Kota Kediri",
+        "nama_singkatan": "Kota Kediri",
+        "nama_singkatan_c": "Kota Kediri"
+    },
+    {
+        "id": 260,
+        "nama_lengkap": "Kota Madiun",
+        "nama_singkatan": "Kota Madiun",
+        "nama_singkatan_c": "Kota Madiun"
+    },
+    {
+        "id": 261,
+        "nama_lengkap": "Kota Malang",
+        "nama_singkatan": "Kota Malang",
+        "nama_singkatan_c": "Kota Malang"
+    },
+    {
+        "id": 262,
+        "nama_lengkap": "Kota Mojokerto",
+        "nama_singkatan": "Kota Mojokerto",
+        "nama_singkatan_c": "Kota Mojokerto"
+    },
+    {
+        "id": 263,
+        "nama_lengkap": "Kota Pasuruan",
+        "nama_singkatan": "Kota Pasuruan",
+        "nama_singkatan_c": "Kota Pasuruan"
+    },
+    {
+        "id": 264,
+        "nama_lengkap": "Kota Probolinggo",
+        "nama_singkatan": "Kota Probolinggo",
+        "nama_singkatan_c": "Kota Probolinggo"
+    },
+    {
+        "id": 265,
+        "nama_lengkap": "Kota Surabaya",
+        "nama_singkatan": "Kota Surabaya",
+        "nama_singkatan_c": "Kota Surabaya"
+    }
+]
