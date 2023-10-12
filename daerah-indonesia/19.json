@@ -1,0 +1,134 @@
+[
+  {
+        "id": 293,
+        "nama_lengkap": "Kabupaten Alor",
+        "nama_singkatan": "Kab Alor",
+        "nama_singkatan_c": "Kab. Alor"
+    },
+    {
+        "id": 294,
+        "nama_lengkap": "Kabupaten Belu",
+        "nama_singkatan": "Kab Belu",
+        "nama_singkatan_c": "Kab. Belu"
+    },
+    {
+        "id": 295,
+        "nama_lengkap": "Kabupaten Ende",
+        "nama_singkatan": "Kab Ende",
+        "nama_singkatan_c": "Kab. Ende"
+    },
+    {
+        "id": 296,
+        "nama_lengkap": "Kabupaten Flores Timur",
+        "nama_singkatan": "Kab Flores Timur",
+        "nama_singkatan_c": "Kab. Flores Timur"
+    },
+    {
+        "id": 297,
+        "nama_lengkap": "Kabupaten Kupang",
+        "nama_singkatan": "Kab Kupang",
+        "nama_singkatan_c": "Kab. Kupang"
+    },
+    {
+        "id": 298,
+        "nama_lengkap": "Kabupaten Lembata",
+        "nama_singkatan": "Kab Lembata",
+        "nama_singkatan_c": "Kab. Lembata"
+    },
+    {
+        "id": 299,
+        "nama_lengkap": "Kabupaten Malaka",
+        "nama_singkatan": "Kab Malaka",
+        "nama_singkatan_c": "Kab. Malaka"
+    },
+    {
+        "id": 300,
+        "nama_lengkap": "Kabupaten Manggarai",
+        "nama_singkatan": "Kab Manggarai",
+        "nama_singkatan_c": "Kab. Manggarai"
+    },
+    {
+        "id": 301,
+        "nama_lengkap": "Kabupaten Manggarai Barat",
+        "nama_singkatan": "Kab Manggarai Barat",
+        "nama_singkatan_c": "Kab. Manggarai Barat"
+    },
+    {
+        "id": 302,
+        "nama_lengkap": "Kabupaten Manggarai Timur",
+        "nama_singkatan": "Kab Manggarai Timur",
+        "nama_singkatan_c": "Kab. Manggarai Timur"
+    },
+    {
+        "id": 303,
+        "nama_lengkap": "Kabupaten Ngada",
+        "nama_singkatan": "Kab Ngada",
+        "nama_singkatan_c": "Kab. Ngada"
+    },
+    {
+        "id": 304,
+        "nama_lengkap": "Kabupaten Nagekeo",
+        "nama_singkatan": "Kab Nagekeo",
+        "nama_singkatan_c": "Kab. Nagekeo"
+    },
+    {
+        "id": 305,
+        "nama_lengkap": "Kabupaten Rote Ndao",
+        "nama_singkatan": "Kab Rote Ndao",
+        "nama_singkatan_c": "Kab. Rote Ndao"
+    },
+    {
+        "id": 306,
+        "nama_lengkap": "Kabupaten Sabu Raijua",
+        "nama_singkatan": "Kab Sabu Raijua",
+        "nama_singkatan_c": "Kab. Sabu Raijua"
+    },
+    {
+        "id": 307,
+        "nama_lengkap": "Kabupaten Sikka",
+        "nama_singkatan": "Kab Sikka",
+        "nama_singkatan_c": "Kab. Sikka"
+    },
+    {
+        "id": 308,
+        "nama_lengkap": "Kabupaten Sumba Barat",
+        "nama_singkatan": "Kab Sumba Barat",
+        "nama_singkatan_c": "Kab. Sumba Barat"
+    },
+    {
+        "id": 309,
+        "nama_lengkap": "Kabupaten Sumba Barat Daya",
+        "nama_singkatan": "Kab Sumba Barat Daya",
+        "nama_singkatan_c": "Kab. Sumba Barat Daya"
+    },
+    {
+        "id": 310,
+        "nama_lengkap": "Kabupaten Sumba Tengah",
+        "nama_singkatan": "Kab Sumba Tengah",
+        "nama_singkatan_c": "Kab. Sumba Tengah"
+    },
+    {
+        "id": 311,
+        "nama_lengkap": "Kabupaten Sumba Timur",
+        "nama_singkatan": "Kab Sumba Timur",
+        "nama_singkatan_c": "Kab. Sumba Timur"
+    },
+    {
+        "id": 312,
+        "nama_lengkap": "Kabupaten Timor Tengah Selatan",
+        "nama_singkatan": "Kab Timor Tengah Selatan",
+        "nama_singkatan_c": "Kab. Timor Tengah Selatan"
+    },
+    {
+        "id": 313,
+        "nama_lengkap": "Kabupaten Timor Tengah Utara",
+        "nama_singkatan": "Kab Timor Tengah Utara",
+        "nama_singkatan_c": "Kab. Timor Tengah Utara"
+    },
+    {
+        "id": 314,
+        "nama_lengkap": "Kota Kupang",
+        "nama_singkatan": "Kota Kupang",
+        "nama_singkatan_c": "Kota Kupang"
+    }
+]

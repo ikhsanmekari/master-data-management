@@ -1,0 +1,56 @@
+[
+  {
+        "id": 274,
+        "nama_lengkap": "Kabupaten Badung",
+        "nama_singkatan": "Kab Badung",
+        "nama_singkatan_c": "Kab. Badung"
+    },
+    {
+        "id": 275,
+        "nama_lengkap": "Kabupaten Bangli",
+        "nama_singkatan": "Kab Bangli",
+        "nama_singkatan_c": "Kab. Bangli"
+    },
+    {
+        "id": 276,
+        "nama_lengkap": "Kabupaten Buleleng",
+        "nama_singkatan": "Kab Buleleng",
+        "nama_singkatan_c": "Kab. Buleleng"
+    },
+    {
+        "id": 277,
+        "nama_lengkap": "Kabupaten Gianyar",
+        "nama_singkatan": "Kab Gianyar",
+        "nama_singkatan_c": "Kab. Gianyar"
+    },
+    {
+        "id": 278,
+        "nama_lengkap": "Kabupaten Jembrana",
+        "nama_singkatan": "Kab Jembrana",
+        "nama_singkatan_c": "Kab. Jembrana"
+    },
+    {
+        "id": 279,
+        "nama_lengkap": "Kabupaten Karangasem",
+        "nama_singkatan": "Kab Karangasem",
+        "nama_singkatan_c": "Kab. Karangasem"
+    },
+    {
+        "id": 280,
+        "nama_lengkap": "Kabupaten Klungkung",
+        "nama_singkatan": "Kab Klungkung",
+        "nama_singkatan_c": "Kab. Klungkung"
+    },
+    {
+        "id": 281,
+        "nama_lengkap": "Kabupaten Tabanan",
+        "nama_singkatan": "Kab Tabanan",
+        "nama_singkatan_c": "Kab. Tabanan"
+    },
+    {
+        "id": 282,
+        "nama_lengkap": "Kota Denpasar",
+        "nama_singkatan": "Kota Denpasar",
+        "nama_singkatan_c": "Kota Denpasar"
+    }
+]

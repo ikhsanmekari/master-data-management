@@ -1,0 +1,62 @@
+[
+  {
+        "id": 283,
+        "nama_lengkap": "Kabupaten Bima",
+        "nama_singkatan": "Kab Bima",
+        "nama_singkatan_c": "Kab. Bima"
+    },
+    {
+        "id": 284,
+        "nama_lengkap": "Kabupaten Dompu",
+        "nama_singkatan": "Kab Dompu",
+        "nama_singkatan_c": "Kab. Dompu"
+    },
+    {
+        "id": 285,
+        "nama_lengkap": "Kabupaten Lombok Barat",
+        "nama_singkatan": "Kab Lombok Barat",
+        "nama_singkatan_c": "Kab. Lombok Barat"
+    },
+    {
+        "id": 286,
+        "nama_lengkap": "Kabupaten Lombok Tengah",
+        "nama_singkatan": "Kab Lombok Tengah",
+        "nama_singkatan_c": "Kab. Lombok Tengah"
+    },
+    {
+        "id": 287,
+        "nama_lengkap": "Kabupaten Lombok Timur",
+        "nama_singkatan": "Kab Lombok Timur",
+        "nama_singkatan_c": "Kab. Lombok Timur"
+    },
+    {
+        "id": 288,
+        "nama_lengkap": "Kabupaten Lombok Utara",
+        "nama_singkatan": "Kab Lombok Utara",
+        "nama_singkatan_c": "Kab. Lombok Utara"
+    },
+    {
+        "id": 289,
+        "nama_lengkap": "Kabupaten Sumbawa",
+        "nama_singkatan": "Kab Sumbawa",
+        "nama_singkatan_c": "Kab. Sumbawa"
+    },
+    {
+        "id": 290,
+        "nama_lengkap": "Kabupaten Sumbawa Barat",
+        "nama_singkatan": "Kab Sumbawa Barat",
+        "nama_singkatan_c": "Kab. Sumbawa Barat"
+    },
+    {
+        "id": 291,
+        "nama_lengkap": "Kota Bima",
+        "nama_singkatan": "Kota Bima",
+        "nama_singkatan_c": "Kota Bima"
+    },
+    {
+        "id": 292,
+        "nama_lengkap": "Kota Mataram",
+        "nama_singkatan": "Kota Mataram",
+        "nama_singkatan_c": "Kota Mataram"
+    }
+]
