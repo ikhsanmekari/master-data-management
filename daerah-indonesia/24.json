@@ -1,0 +1,32 @@
+[
+  {
+        "id": 366,
+        "nama_lengkap": "Kabupaten Bulungan",
+        "nama_singkatan": "Kab Bulungan",
+        "nama_singkatan_c": "Kab. Bulungan"
+    },
+    {
+        "id": 367,
+        "nama_lengkap": "Kabupaten Malinau",
+        "nama_singkatan": "Kab Malinau",
+        "nama_singkatan_c": "Kab. Malinau"
+    },
+    {
+        "id": 368,
+        "nama_lengkap": "Kabupaten Nunukan",
+        "nama_singkatan": "Kab Nunukan",
+        "nama_singkatan_c": "Kab. Nunukan"
+    },
+    {
+        "id": 369,
+        "nama_lengkap": "Kabupaten Tana Tidung",
+        "nama_singkatan": "Kab Tana Tidung",
+        "nama_singkatan_c": "Kab. Tana Tidung"
+    },
+    {
+        "id": 370,
+        "nama_lengkap": "Kota Tarakan",
+        "nama_singkatan": "Kota Tarakan",
+        "nama_singkatan_c": "Kota Tarakan"
+    }
+]

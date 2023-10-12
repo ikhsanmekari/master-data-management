@@ -1,0 +1,62 @@
+[
+  {
+        "id": 356,
+        "nama_lengkap": "Kabupaten Berau",
+        "nama_singkatan": "Kab Berau",
+        "nama_singkatan_c": "Kab. Berau"
+    },
+    {
+        "id": 357,
+        "nama_lengkap": "Kabupaten Kutai Barat",
+        "nama_singkatan": "Kab Kutai Barat",
+        "nama_singkatan_c": "Kab. Kutai Barat"
+    },
+    {
+        "id": 358,
+        "nama_lengkap": "Kabupaten Kutai Kartanegara",
+        "nama_singkatan": "Kab Kutai Kartanegara",
+        "nama_singkatan_c": "Kab. Kutai Kartanegara"
+    },
+    {
+        "id": 359,
+        "nama_lengkap": "Kabupaten Kutai Timur",
+        "nama_singkatan": "Kab Kutai Timur",
+        "nama_singkatan_c": "Kab. Kutai Timur"
+    },
+    {
+        "id": 360,
+        "nama_lengkap": "Kabupaten Mahakam Ulu",
+        "nama_singkatan": "Kab Mahakam Ulu",
+        "nama_singkatan_c": "Kab. Mahakam Ulu"
+    },
+    {
+        "id": 361,
+        "nama_lengkap": "Kabupaten Paser",
+        "nama_singkatan": "Kab Paser",
+        "nama_singkatan_c": "Kab. Paser"
+    },
+    {
+        "id": 362,
+        "nama_lengkap": "Kabupaten Penajam Paser Utara",
+        "nama_singkatan": "Kab Penajam Paser Utara",
+        "nama_singkatan_c": "Kab. Penajam Paser Utara"
+    },
+    {
+        "id": 363,
+        "nama_lengkap": "Kota Balikpapan",
+        "nama_singkatan": "Kota Balikpapan",
+        "nama_singkatan_c": "Kota Balikpapan"
+    },
+    {
+        "id": 364,
+        "nama_lengkap": "Kota Bontang",
+        "nama_singkatan": "Kota Bontang",
+        "nama_singkatan_c": "Kota Bontang"
+    },
+    {
+        "id": 365,
+        "nama_lengkap": "Kota Samarinda",
+        "nama_singkatan": "Kota Samarinda",
+        "nama_singkatan_c": "Kota Samarinda"
+    }
+]

@@ -1,0 +1,86 @@
+[
+  {
+        "id": 329,
+        "nama_lengkap": "Kabupaten Barito Selatan",
+        "nama_singkatan": "Kab Barito Selatan",
+        "nama_singkatan_c": "Kab. Barito Selatan"
+    },
+    {
+        "id": 330,
+        "nama_lengkap": "Kabupaten Barito Timur",
+        "nama_singkatan": "Kab Barito Timur",
+        "nama_singkatan_c": "Kab. Barito Timur"
+    },
+    {
+        "id": 331,
+        "nama_lengkap": "Kabupaten Barito Utara",
+        "nama_singkatan": "Kab Barito Utara",
+        "nama_singkatan_c": "Kab. Barito Utara"
+    },
+    {
+        "id": 332,
+        "nama_lengkap": "Kabupaten Gunung Mas",
+        "nama_singkatan": "Kab Gunung Mas",
+        "nama_singkatan_c": "Kab. Gunung Mas"
+    },
+    {
+        "id": 333,
+        "nama_lengkap": "Kabupaten Kapuas",
+        "nama_singkatan": "Kab Kapuas",
+        "nama_singkatan_c": "Kab. Kapuas"
+    },
+    {
+        "id": 334,
+        "nama_lengkap": "Kabupaten Katingan",
+        "nama_singkatan": "Kab Katingan",
+        "nama_singkatan_c": "Kab. Katingan"
+    },
+    {
+        "id": 335,
+        "nama_lengkap": "Kabupaten Kotawaringin Barat",
+        "nama_singkatan": "Kab Kotawaringin Barat",
+        "nama_singkatan_c": "Kab. Kotawaringin Barat"
+    },
+    {
+        "id": 336,
+        "nama_lengkap": "Kabupaten Kotawaringin Timur",
+        "nama_singkatan": "Kab Kotawaringin Timur",
+        "nama_singkatan_c": "Kab. Kotawaringin Timur"
+    },
+    {
+        "id": 337,
+        "nama_lengkap": "Kabupaten Lamandau",
+        "nama_singkatan": "Kab Lamandau",
+        "nama_singkatan_c": "Kab. Lamandau"
+    },
+    {
+        "id": 338,
+        "nama_lengkap": "Kabupaten Murung Raya",
+        "nama_singkatan": "Kab Murung Raya",
+        "nama_singkatan_c": "Kab. Murung Raya"
+    },
+    {
+        "id": 339,
+        "nama_lengkap": "Kabupaten Pulang Pisau",
+        "nama_singkatan": "Kab Pulang Pisau",
+        "nama_singkatan_c": "Kab. Pulang Pisau"
+    },
+    {
+        "id": 340,
+        "nama_lengkap": "Kabupaten Sukamara",
+        "nama_singkatan": "Kab Sukamara",
+        "nama_singkatan_c": "Kab. Sukamara"
+    },
+    {
+        "id": 341,
+        "nama_lengkap": "Kabupaten Seruyan",
+        "nama_singkatan": "Kab Seruyan",
+        "nama_singkatan_c": "Kab. Seruyan"
+    },
+    {
+        "id": 342,
+        "nama_lengkap": "Kota Palangka Raya",
+        "nama_singkatan": "Kota Palangka Raya",
+        "nama_singkatan_c": "Kota Palangka Raya"
+    }
+]

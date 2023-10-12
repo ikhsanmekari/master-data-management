@@ -1,0 +1,86 @@
+[
+  {
+        "id": 315,
+        "nama_lengkap": "Kabupaten Bengkayang",
+        "nama_singkatan": "Kab Bengkayang",
+        "nama_singkatan_c": "Kab. Bengkayang"
+    },
+    {
+        "id": 316,
+        "nama_lengkap": "Kabupaten Kapuas Hulu",
+        "nama_singkatan": "Kab Kapuas Hulu",
+        "nama_singkatan_c": "Kab. Kapuas Hulu"
+    },
+    {
+        "id": 317,
+        "nama_lengkap": "Kabupaten Kayong Utara",
+        "nama_singkatan": "Kab Kayong Utara",
+        "nama_singkatan_c": "Kab. Kayong Utara"
+    },
+    {
+        "id": 318,
+        "nama_lengkap": "Kabupaten Ketapang",
+        "nama_singkatan": "Kab Ketapang",
+        "nama_singkatan_c": "Kab. Ketapang"
+    },
+    {
+        "id": 319,
+        "nama_lengkap": "Kabupaten Kubu Raya",
+        "nama_singkatan": "Kab Kubu Raya",
+        "nama_singkatan_c": "Kab. Kubu Raya"
+    },
+    {
+        "id": 320,
+        "nama_lengkap": "Kabupaten Landak",
+        "nama_singkatan": "Kab Landak",
+        "nama_singkatan_c": "Kab. Landak"
+    },
+    {
+        "id": 321,
+        "nama_lengkap": "Kabupaten Melawi",
+        "nama_singkatan": "Kab Melawi",
+        "nama_singkatan_c": "Kab. Melawi"
+    },
+    {
+        "id": 322,
+        "nama_lengkap": "Kabupaten Mempawah",
+        "nama_singkatan": "Kab Mempawah",
+        "nama_singkatan_c": "Kab. Mempawah"
+    },
+    {
+        "id": 323,
+        "nama_lengkap": "Kabupaten Sambas",
+        "nama_singkatan": "Kab Sambas",
+        "nama_singkatan_c": "Kab. Sambas"
+    },
+    {
+        "id": 324,
+        "nama_lengkap": "Kabupaten Sanggau",
+        "nama_singkatan": "Kab Sanggau",
+        "nama_singkatan_c": "Kab. Sanggau"
+    },
+    {
+        "id": 325,
+        "nama_lengkap": "Kabupaten Sekadau",
+        "nama_singkatan": "Kab Sekadau",
+        "nama_singkatan_c": "Kab. Sekadau"
+    },
+    {
+        "id": 326,
+        "nama_lengkap": "Kabupaten Sintang",
+        "nama_singkatan": "Kab Sintang",
+        "nama_singkatan_c": "Kab. Sintang"
+    },
+    {
+        "id": 327,
+        "nama_lengkap": "Kota Pontianak",
+        "nama_singkatan": "Kota Pontianak",
+        "nama_singkatan_c": "Kota Pontianak"
+    },
+    {
+        "id": 328,
+        "nama_lengkap": "Kota Singkawang",
+        "nama_singkatan": "Kota Singkawang",
+        "nama_singkatan_c": "Kota Singkawang"
+    }
+]

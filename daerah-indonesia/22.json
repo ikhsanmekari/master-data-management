@@ -1,0 +1,80 @@
+[
+  {
+        "id": 343,
+        "nama_lengkap": "Kabupaten Balangan",
+        "nama_singkatan": "Kab Balangan",
+        "nama_singkatan_c": "Kab. Balangan"
+    },
+    {
+        "id": 344,
+        "nama_lengkap": "Kabupaten Banjar",
+        "nama_singkatan": "Kab Banjar",
+        "nama_singkatan_c": "Kab. Banjar"
+    },
+    {
+        "id": 345,
+        "nama_lengkap": "Kabupaten Barito Kuala",
+        "nama_singkatan": "Kab Barito Kuala",
+        "nama_singkatan_c": "Kab. Barito Kuala"
+    },
+    {
+        "id": 346,
+        "nama_lengkap": "Kabupaten Hulu Sungai Selatan",
+        "nama_singkatan": "Kab Hulu Sungai Selatan",
+        "nama_singkatan_c": "Kab. Hulu Sungai Selatan"
+    },
+    {
+        "id": 347,
+        "nama_lengkap": "Kabupaten Hulu Sungai Tengah",
+        "nama_singkatan": "Kab Hulu Sungai Tengah",
+        "nama_singkatan_c": "Kab. Hulu Sungai Tengah"
+    },
+    {
+        "id": 348,
+        "nama_lengkap": "Kabupaten Hulu Sungai Utara",
+        "nama_singkatan": "Kab Hulu Sungai Utara",
+        "nama_singkatan_c": "Kab. Hulu Sungai Utara"
+    },
+    {
+        "id": 349,
+        "nama_lengkap": "Kabupaten Kotabaru",
+        "nama_singkatan": "Kab Kotabaru",
+        "nama_singkatan_c": "Kab. Kotabaru"
+    },
+    {
+        "id": 350,
+        "nama_lengkap": "Kabupaten Tabalong",
+        "nama_singkatan": "Kab Tabalong",
+        "nama_singkatan_c": "Kab. Tabalong"
+    },
+    {
+        "id": 351,
+        "nama_lengkap": "Kabupaten Tanah Bumbu",
+        "nama_singkatan": "Kab Tanah Bumbu",
+        "nama_singkatan_c": "Kab. Tanah Bumbu"
+    },
+    {
+        "id": 352,
+        "nama_lengkap": "Kabupaten Tanah Laut",
+        "nama_singkatan": "Kab Tanah Laut",
+        "nama_singkatan_c": "Kab. Tanah Laut"
+    },
+    {
+        "id": 353,
+        "nama_lengkap": "Kabupaten Tapin",
+        "nama_singkatan": "Kab Tapin",
+        "nama_singkatan_c": "Kab. Tapin"
+    },
+    {
+        "id": 354,
+        "nama_lengkap": "Kota Banjarbaru",
+        "nama_singkatan": "Kota Banjarbaru",
+        "nama_singkatan_c": "Kota Banjarbaru"
+    },
+    {
+        "id": 355,
+        "nama_lengkap": "Kota Banjarmasin",
+        "nama_singkatan": "Kota Banjarmasin",
+        "nama_singkatan_c": "Kota Banjarmasin"
+    }
+]
