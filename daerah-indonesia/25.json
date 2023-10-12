@@ -1,0 +1,92 @@
+[
+  {
+        "id": 371,
+        "nama_lengkap": "Kabupaten Bolaang Mongondow",
+        "nama_singkatan": "Kab Bolaang Mongondow",
+        "nama_singkatan_c": "Kab. Bolaang Mongondow"
+    },
+    {
+        "id": 372,
+        "nama_lengkap": "Kabupaten Bolaang Mongondow Selatan",
+        "nama_singkatan": "Kab Bolaang Mongondow Selatan",
+        "nama_singkatan_c": "Kab. Bolaang Mongondow Selatan"
+    },
+    {
+        "id": 373,
+        "nama_lengkap": "Kabupaten Bolaang Mongondow Timur",
+        "nama_singkatan": "Kab Bolaang Mongondow Timur",
+        "nama_singkatan_c": "Kab. Bolaang Mongondow Timur"
+    },
+    {
+        "id": 374,
+        "nama_lengkap": "Kabupaten Bolaang Mongondow Utara",
+        "nama_singkatan": "Kab Bolaang Mongondow Utara",
+        "nama_singkatan_c": "Kab. Bolaang Mongondow Utara"
+    },
+    {
+        "id": 375,
+        "nama_lengkap": "Kabupaten Kepulauan Sangihe",
+        "nama_singkatan": "Kab Kepulauan Sangihe",
+        "nama_singkatan_c": "Kab. Kepulauan Sangihe"
+    },
+    {
+        "id": 376,
+        "nama_lengkap": "Kabupaten Kepulauan Siau Tagulandang Biaro",
+        "nama_singkatan": "Kab Kepulauan Siau Tagulandang Biaro",
+        "nama_singkatan_c": "Kab. Kepulauan Siau Tagulandang Biaro"
+    },
+    {
+        "id": 377,
+        "nama_lengkap": "Kabupaten Kepulauan Talaud",
+        "nama_singkatan": "Kab Kepulauan Talaud",
+        "nama_singkatan_c": "Kab. Kepulauan Talaud"
+    },
+    {
+        "id": 378,
+        "nama_lengkap": "Kabupaten Minahasa",
+        "nama_singkatan": "Kab Minahasa",
+        "nama_singkatan_c": "Kab. Minahasa"
+    },
+    {
+        "id": 379,
+        "nama_lengkap": "Kabupaten Minahasa Selatan",
+        "nama_singkatan": "Kab Minahasa Selatan",
+        "nama_singkatan_c": "Kab. Minahasa Selatan"
+    },
+    {
+        "id": 380,
+        "nama_lengkap": "Kabupaten Minahasa Tenggara",
+        "nama_singkatan": "Kab Minahasa Tenggara",
+        "nama_singkatan_c": "Kab. Minahasa Tenggara"
+    },
+    {
+        "id": 381,
+        "nama_lengkap": "Kabupaten Minahasa Utara",
+        "nama_singkatan": "Kab Minahasa Utara",
+        "nama_singkatan_c": "Kab. Minahasa Utara"
+    },
+    {
+        "id": 382,
+        "nama_lengkap": "Kota Bitung",
+        "nama_singkatan": "Kota Bitung",
+        "nama_singkatan_c": "Kota Bitung"
+    },
+    {
+        "id": 383,
+        "nama_lengkap": "Kota Kotamobagu",
+        "nama_singkatan": "Kota Kotamobagu",
+        "nama_singkatan_c": "Kota Kotamobagu"
+    },
+    {
+        "id": 384,
+        "nama_lengkap": "Kota Manado",
+        "nama_singkatan": "Kota Manado",
+        "nama_singkatan_c": "Kota Manado"
+    },
+    {
+        "id": 385,
+        "nama_lengkap": "Kota Tomohon",
+        "nama_singkatan": "Kota Tomohon",
+        "nama_singkatan_c": "Kota Tomohon"
+    }
+]

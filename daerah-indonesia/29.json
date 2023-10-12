@@ -1,0 +1,38 @@
+[
+  {
+        "id": 440,
+        "nama_lengkap": "Kabupaten Boalemo",
+        "nama_singkatan": "Kab Boalemo",
+        "nama_singkatan_c": "Kab. Boalemo"
+    },
+    {
+        "id": 441,
+        "nama_lengkap": "Kabupaten Bone Bolango",
+        "nama_singkatan": "Kab Bone Bolango",
+        "nama_singkatan_c": "Kab. Bone Bolango"
+    },
+    {
+        "id": 442,
+        "nama_lengkap": "Kabupaten Gorontalo",
+        "nama_singkatan": "Kab Gorontalo",
+        "nama_singkatan_c": "Kab. Gorontalo"
+    },
+    {
+        "id": 443,
+        "nama_lengkap": "Kabupaten Gorontalo Utara",
+        "nama_singkatan": "Kab Gorontalo Utara",
+        "nama_singkatan_c": "Kab. Gorontalo Utara"
+    },
+    {
+        "id": 444,
+        "nama_lengkap": "Kabupaten Pohuwato",
+        "nama_singkatan": "Kab Pohuwato",
+        "nama_singkatan_c": "Kab. Pohuwato"
+    },
+    {
+        "id": 445,
+        "nama_lengkap": "Kota Gorontalo",
+        "nama_singkatan": "Kota Gorontalo",
+        "nama_singkatan_c": "Kota Gorontalo"
+    }
+]

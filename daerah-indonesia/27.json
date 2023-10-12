@@ -1,0 +1,146 @@
+[
+  {
+        "id": 399,
+        "nama_lengkap": "Kabupaten Bantaeng",
+        "nama_singkatan": "Kab Bantaeng",
+        "nama_singkatan_c": "Kab. Bantaeng"
+    },
+    {
+        "id": 400,
+        "nama_lengkap": "Kabupaten Barru",
+        "nama_singkatan": "Kab Barru",
+        "nama_singkatan_c": "Kab. Barru"
+    },
+    {
+        "id": 401,
+        "nama_lengkap": "Kabupaten Bone",
+        "nama_singkatan": "Kab Bone",
+        "nama_singkatan_c": "Kab. Bone"
+    },
+    {
+        "id": 402,
+        "nama_lengkap": "Kabupaten Bulukumba",
+        "nama_singkatan": "Kab Bulukumba",
+        "nama_singkatan_c": "Kab. Bulukumba"
+    },
+    {
+        "id": 403,
+        "nama_lengkap": "Kabupaten Enrekang",
+        "nama_singkatan": "Kab Enrekang",
+        "nama_singkatan_c": "Kab. Enrekang"
+    },
+    {
+        "id": 404,
+        "nama_lengkap": "Kabupaten Gowa",
+        "nama_singkatan": "Kab Gowa",
+        "nama_singkatan_c": "Kab. Gowa"
+    },
+    {
+        "id": 405,
+        "nama_lengkap": "Kabupaten Jeneponto",
+        "nama_singkatan": "Kab Jeneponto",
+        "nama_singkatan_c": "Kab. Jeneponto"
+    },
+    {
+        "id": 406,
+        "nama_lengkap": "Kabupaten Kepulauan Selayar",
+        "nama_singkatan": "Kab Kepulauan Selayar",
+        "nama_singkatan_c": "Kab. Kepulauan Selayar"
+    },
+    {
+        "id": 407,
+        "nama_lengkap": "Kabupaten Luwu",
+        "nama_singkatan": "Kab Luwu",
+        "nama_singkatan_c": "Kab. Luwu"
+    },
+    {
+        "id": 408,
+        "nama_lengkap": "Kabupaten Luwu Timur",
+        "nama_singkatan": "Kab Luwu Timur",
+        "nama_singkatan_c": "Kab. Luwu Timur"
+    },
+    {
+        "id": 409,
+        "nama_lengkap": "Kabupaten Luwu Utara",
+        "nama_singkatan": "Kab Luwu Utara",
+        "nama_singkatan_c": "Kab. Luwu Utara"
+    },
+    {
+        "id": 410,
+        "nama_lengkap": "Kabupaten Maros",
+        "nama_singkatan": "Kab Maros",
+        "nama_singkatan_c": "Kab. Maros"
+    },
+    {
+        "id": 411,
+        "nama_lengkap": "Kabupaten Pangkajene dan Kepulauan",
+        "nama_singkatan": "Kab Pangkajene dan Kepulauan",
+        "nama_singkatan_c": "Kab. Pangkajene dan Kepulauan"
+    },
+    {
+        "id": 412,
+        "nama_lengkap": "Kabupaten Pinrang",
+        "nama_singkatan": "Kab Pinrang",
+        "nama_singkatan_c": "Kab. Pinrang"
+    },
+    {
+        "id": 413,
+        "nama_lengkap": "Kabupaten Sidenreng Rappang",
+        "nama_singkatan": "Kab Sidenreng Rappang",
+        "nama_singkatan_c": "Kab. Sidenreng Rappang"
+    },
+    {
+        "id": 414,
+        "nama_lengkap": "Kabupaten Sinjai",
+        "nama_singkatan": "Kab Sinjai",
+        "nama_singkatan_c": "Kab. Sinjai"
+    },
+    {
+        "id": 415,
+        "nama_lengkap": "Kabupaten Soppeng",
+        "nama_singkatan": "Kab Soppeng",
+        "nama_singkatan_c": "Kab. Soppeng"
+    },
+    {
+        "id": 416,
+        "nama_lengkap": "Kabupaten Takalar",
+        "nama_singkatan": "Kab Takalar",
+        "nama_singkatan_c": "Kab. Takalar"
+    },
+    {
+        "id": 417,
+        "nama_lengkap": "Kabupaten Tana Toraja",
+        "nama_singkatan": "Kab Tana Toraja",
+        "nama_singkatan_c": "Kab. Tana Toraja"
+    },
+    {
+        "id": 418,
+        "nama_lengkap": "Kabupaten Toraja Utara",
+        "nama_singkatan": "Kab Toraja Utara",
+        "nama_singkatan_c": "Kab. Toraja Utara"
+    },
+    {
+        "id": 419,
+        "nama_lengkap": "Kabupaten Wajo",
+        "nama_singkatan": "Kab Wajo",
+        "nama_singkatan_c": "Kab. Wajo"
+    },
+    {
+        "id": 420,
+        "nama_lengkap": "Kota Makassar",
+        "nama_singkatan": "Kota Makassar",
+        "nama_singkatan_c": "Kota Makassar"
+    },
+    {
+        "id": 421,
+        "nama_lengkap": "Kota Palopo",
+        "nama_singkatan": "Kota Palopo",
+        "nama_singkatan_c": "Kota Palopo"
+    },
+    {
+        "id": 422,
+        "nama_lengkap": "Kota Parepare",
+        "nama_singkatan": "Kota Parepare",
+        "nama_singkatan_c": "Kota Parepare"
+    }
+]

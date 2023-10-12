@@ -1,0 +1,80 @@
+[
+  {
+        "id": 386,
+        "nama_lengkap": "Kabupaten Banggai",
+        "nama_singkatan": "Kab Banggai",
+        "nama_singkatan_c": "Kab. Banggai"
+    },
+    {
+        "id": 387,
+        "nama_lengkap": "Kabupaten Banggai Kepulauan",
+        "nama_singkatan": "Kab Banggai Kepulauan",
+        "nama_singkatan_c": "Kab. Banggai Kepulauan"
+    },
+    {
+        "id": 388,
+        "nama_lengkap": "Kabupaten Banggai Laut",
+        "nama_singkatan": "Kab Banggai Laut",
+        "nama_singkatan_c": "Kab. Banggai Laut"
+    },
+    {
+        "id": 389,
+        "nama_lengkap": "Kabupaten Buol",
+        "nama_singkatan": "Kab Buol",
+        "nama_singkatan_c": "Kab. Buol"
+    },
+    {
+        "id": 390,
+        "nama_lengkap": "Kabupaten Donggala",
+        "nama_singkatan": "Kab Donggala",
+        "nama_singkatan_c": "Kab. Donggala"
+    },
+    {
+        "id": 391,
+        "nama_lengkap": "Kabupaten Morowali",
+        "nama_singkatan": "Kab Morowali",
+        "nama_singkatan_c": "Kab. Morowali"
+    },
+    {
+        "id": 392,
+        "nama_lengkap": "Kabupaten Morowali Utara",
+        "nama_singkatan": "Kab Morowali Utara",
+        "nama_singkatan_c": "Kab. Morowali Utara"
+    },
+    {
+        "id": 393,
+        "nama_lengkap": "Kabupaten Parigi Moutong",
+        "nama_singkatan": "Kab Parigi Moutong",
+        "nama_singkatan_c": "Kab. Parigi Moutong"
+    },
+    {
+        "id": 394,
+        "nama_lengkap": "Kabupaten Poso",
+        "nama_singkatan": "Kab Poso",
+        "nama_singkatan_c": "Kab. Poso"
+    },
+    {
+        "id": 395,
+        "nama_lengkap": "Kabupaten Sigi",
+        "nama_singkatan": "Kab Sigi",
+        "nama_singkatan_c": "Kab. Sigi"
+    },
+    {
+        "id": 396,
+        "nama_lengkap": "Kabupaten Tojo Una-Una",
+        "nama_singkatan": "Kab Tojo Una-Una",
+        "nama_singkatan_c": "Kab. Tojo Una-Una"
+    },
+    {
+        "id": 397,
+        "nama_lengkap": "Kabupaten Toli-Toli",
+        "nama_singkatan": "Kab Toli-Toli",
+        "nama_singkatan_c": "Kab. Toli-Toli"
+    },
+    {
+        "id": 398,
+        "nama_lengkap": "Kota Palu",
+        "nama_singkatan": "Kota Palu",
+        "nama_singkatan_c": "Kota Palu"
+    }
+]

@@ -1,0 +1,38 @@
+[
+  {
+        "id": 446,
+        "nama_lengkap": "Kabupaten Majene",
+        "nama_singkatan": "Kab Majene",
+        "nama_singkatan_c": "Kab. Majene"
+    },
+    {
+        "id": 447,
+        "nama_lengkap": "Kabupaten Mamasa",
+        "nama_singkatan": "Kab Mamasa",
+        "nama_singkatan_c": "Kab. Mamasa"
+    },
+    {
+        "id": 448,
+        "nama_lengkap": "Kabupaten Mamuju",
+        "nama_singkatan": "Kab Mamuju",
+        "nama_singkatan_c": "Kab. Mamuju"
+    },
+    {
+        "id": 449,
+        "nama_lengkap": "Kabupaten Mamuju Tengah",
+        "nama_singkatan": "Kab Mamuju Tengah",
+        "nama_singkatan_c": "Kab. Mamuju Tengah"
+    },
+    {
+        "id": 450,
+        "nama_lengkap": "Kabupaten Mamuju Utara",
+        "nama_singkatan": "Kab Mamuju Utara",
+        "nama_singkatan_c": "Kab. Mamuju Utara"
+    },
+    {
+        "id": 451,
+        "nama_lengkap": "Kabupaten Polewali Mandar",
+        "nama_singkatan": "Kab Polewali Mandar",
+        "nama_singkatan_c": "Kab. Polewali Mandar"
+    }
+]

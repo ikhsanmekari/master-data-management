@@ -1,0 +1,104 @@
+[
+  {
+        "id": 423,
+        "nama_lengkap": "Kabupaten Bombana",
+        "nama_singkatan": "Kab Bombana",
+        "nama_singkatan_c": "Kab. Bombana"
+    },
+    {
+        "id": 424,
+        "nama_lengkap": "Kabupaten Buton",
+        "nama_singkatan": "Kab Buton",
+        "nama_singkatan_c": "Kab. Buton"
+    },
+    {
+        "id": 425,
+        "nama_lengkap": "Kabupaten Buton Selatan",
+        "nama_singkatan": "Kab Buton Selatan",
+        "nama_singkatan_c": "Kab. Buton Selatan"
+    },
+    {
+        "id": 426,
+        "nama_lengkap": "Kabupaten Buton Tengah",
+        "nama_singkatan": "Kab Buton Tengah",
+        "nama_singkatan_c": "Kab. Buton Tengah"
+    },
+    {
+        "id": 427,
+        "nama_lengkap": "Kabupaten Buton Utara",
+        "nama_singkatan": "Kab Buton Utara",
+        "nama_singkatan_c": "Kab. Buton Utara"
+    },
+    {
+        "id": 428,
+        "nama_lengkap": "Kabupaten Kolaka",
+        "nama_singkatan": "Kab Kolaka",
+        "nama_singkatan_c": "Kab. Kolaka"
+    },
+    {
+        "id": 429,
+        "nama_lengkap": "Kabupaten Kolaka Timur",
+        "nama_singkatan": "Kab Kolaka Timur",
+        "nama_singkatan_c": "Kab. Kolaka Timur"
+    },
+    {
+        "id": 430,
+        "nama_lengkap": "Kabupaten Kolaka Utara",
+        "nama_singkatan": "Kab Kolaka Utara",
+        "nama_singkatan_c": "Kab. Kolaka Utara"
+    },
+    {
+        "id": 431,
+        "nama_lengkap": "Kabupaten Konawe",
+        "nama_singkatan": "Kab Konawe",
+        "nama_singkatan_c": "Kab. Konawe"
+    },
+    {
+        "id": 432,
+        "nama_lengkap": "Kabupaten Konawe Kepulauan",
+        "nama_singkatan": "Kab Konawe Kepulauan",
+        "nama_singkatan_c": "Kab. Konawe Kepulauan"
+    },
+    {
+        "id": 433,
+        "nama_lengkap": "Kabupaten Konawe Selatan",
+        "nama_singkatan": "Kab Konawe Selatan",
+        "nama_singkatan_c": "Kab. Konawe Selatan"
+    },
+    {
+        "id": 434,
+        "nama_lengkap": "Kabupaten Konawe Utara",
+        "nama_singkatan": "Kab Konawe Utara",
+        "nama_singkatan_c": "Kab. Konawe Utara"
+    },
+    {
+        "id": 435,
+        "nama_lengkap": "Kabupaten Muna",
+        "nama_singkatan": "Kab Muna",
+        "nama_singkatan_c": "Kab. Muna"
+    },
+    {
+        "id": 436,
+        "nama_lengkap": "Kabupaten Muna Barat",
+        "nama_singkatan": "Kab Muna Barat",
+        "nama_singkatan_c": "Kab. Muna Barat"
+    },
+    {
+        "id": 437,
+        "nama_lengkap": "Kabupaten Wakatobi",
+        "nama_singkatan": "Kab Wakatobi",
+        "nama_singkatan_c": "Kab. Wakatobi"
+    },
+    {
+        "id": 438,
+        "nama_lengkap": "Kota Bau-Bau",
+        "nama_singkatan": "Kota Bau-Bau",
+        "nama_singkatan_c": "Kota Bau-Bau"
+    },
+    {
+        "id": 439,
+        "nama_lengkap": "Kota Kendari",
+        "nama_singkatan": "Kota Kendari",
+        "nama_singkatan_c": "Kota Kendari"
+    }
+]
