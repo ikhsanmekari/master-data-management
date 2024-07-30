@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "code": "Haval H6 HEV",
+    "name": "Haval H6 HEV",
+    "tag": "Haval H6 HEV"
+  },
+  {
+    "id": 2,
+    "code": "Ora 03 BEV",
+    "name": "Ora 03 BEV",
+    "tag": "Ora 03 BEV"
+  },
+  {
+    "id": 3,
+    "code": "Tank 500 HEV",
+    "name": "Tank 500 HEV",
+    "tag": "Tank 500 HEV"
+  }
+]

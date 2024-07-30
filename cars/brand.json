@@ -1,5 +1,12 @@
 [
   {
+    "id": 15,
+    "code": "BYD",
+    "name": "BYD",
+    "tag": "BYD",
+    "website": "https://byd-indonesia.co.id/"
+  },
+  {
     "id": 1,
     "code": "Daihatsu",
     "name": "Daihatsu",
@@ -12,6 +19,13 @@
     "name": "DFSK",
     "tag": "DFSK",
     "website": "https://www.dfskmotors.co.id/id"
+  },
+  {
+    "id": 16,
+    "code": "GWM",
+    "name": "GWM",
+    "tag": "GWM",
+    "website": "https://www.gwmauto.co.id/"
   },
   {
     "id": 3,
@@ -70,6 +84,13 @@
     "website": "https://www.ktb.co.id/"
   },
   {
+    "id": 17,
+    "code": "Neta",
+    "name": "Neta",
+    "tag": "Neta",
+    "website": "https://www.neta.co.id/id"
+  },
+  {
     "id": 11,
     "code": "Nissan",
     "name": "Nissan",
@@ -89,6 +110,13 @@
     "name": "Toyota",
     "tag": "Toyota",
     "website": "https://www.toyota.astra.co.id/home"
+  },
+  {
+    "id": 18,
+    "code": "Vinfast",
+    "name": "Vinfast",
+    "tag": "Vinfast",
+    "website": "https://www.vinfastauto.id"
   },
   {
     "id": 14,

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "code": "BYD Seal",
+    "name": "BYD Seal",
+    "tag": "BYD Seal"
+  },
+  {
+    "id": 2,
+    "code": "BYD Atto 3",
+    "name": "BYD Atto 3",
+    "tag": "BYD Atto 3"
+  },
+  {
+    "id": 3,
+    "code": "BYD Dolphin",
+    "name": "BYD Dolphin",
+    "tag": "BYD Dolphin"
+  }
+]
